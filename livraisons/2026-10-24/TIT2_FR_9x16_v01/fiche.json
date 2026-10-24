@@ -1,0 +1,71 @@
+{
+ "ref": "TIT2",
+ "langue_source": "fr",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "",
+  "repli_id": "",
+  "vitesse_max": 1.07
+ },
+ "lignes": [],
+ "mix": {
+  "fond": "musique"
+ },
+ "rendu": {
+  "remplacements": [
+   {
+    "images": [
+     695,
+     723
+    ],
+    "depuis": [
+     [
+      666,
+      694
+     ]
+    ],
+    "mode": "inverse"
+   }
+  ],
+  "blocs": [
+   {
+    "images": [
+     696,
+     723
+    ],
+    "lignes": [
+     [
+      "testez-la 90 jours si elle\naccroche on vous rembourse",
+      [
+       62,
+       804,
+       658,
+       920
+      ]
+     ]
+    ],
+    "taille": 40
+   }
+  ]
+ },
+ "marque": "Titaneo",
+ "produit": "poêle en titane Titaneo (manche amovible)",
+ "site": "https://wunela.com/",
+ "offre": "celle de la source (-60%, 90 jours remboursé)",
+ "controle": {
+  "sans_voix": []
+ },
+ "notes": "Étape 0 : source déjà en français, la voix et les sous-titres ne citent pas la marque. Seule trace : carton orange logo TitaneX, plan 695-723 -> remplacé par la fin du plan précédent jouée à l'envers + bloc 'testez-la...' par-dessus. Voix d'origine conservée (full.wav), aucun ElevenLabs.",
+ "bilan": {
+  "duree_source_s": 26.7,
+  "vmake_s": 0,
+  "caracteres_elevenlabs": 0,
+  "replicate_appels": 1,
+  "reprises": 0,
+  "problemes": [
+   "Vidéo envoyée 2 fois (doublon)",
+   "Marque seulement sur un carton (plan 695-723) : plan remplacé, voix et sous-titres d'origine gardés",
+   "rendu.blocs manuel doit être une liste (un dict plante rendu.py)"
+  ]
+ }
+}

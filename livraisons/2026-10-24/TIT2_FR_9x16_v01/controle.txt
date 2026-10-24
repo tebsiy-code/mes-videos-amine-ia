@@ -1,0 +1,9 @@
+OK     :
+  - format 720x1280 identique à la source
+  - durée vidéo 26.57 s / source 26.57 s = 100.0 %
+  - phrases plus longues que leur fenêtre : aucune
+  - trous de voix absents de la source : aucun
+  - texte d'origine visible hors de nos rectangles : 0 image(s)
+ALERTE :
+  - à vérifier : sous-titre d'origine sur des images sans rectangle : 0-132, 135-223, 233-308, 326-394, 400-445, 456-502, 508-589, 599-695, 724-793
+À vérifier à la main (non automatisable) : fidélité de la voix à l'écoute, logo ou texte d'origine sur les micro-plans, qualité des plans remplacés.
