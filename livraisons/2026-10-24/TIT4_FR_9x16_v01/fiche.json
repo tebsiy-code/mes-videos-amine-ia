@@ -1,0 +1,102 @@
+{
+ "ref": "TIT4",
+ "langue_source": "fr",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "",
+  "repli_id": "",
+  "vitesse_max": 1.07
+ },
+ "lignes": [],
+ "mix": {
+  "fond": "musique"
+ },
+ "rendu": {
+  "patches": [],
+  "textes": [
+   {
+    "images": [
+     211,
+     257
+    ],
+    "lignes": [
+     "la Titaneo, oui"
+    ],
+    "y": 991,
+    "taille": 50,
+    "graisse": 800,
+    "police": "/usr/share/fonts/opentype/inter/Inter-ExtraBold.otf",
+    "decalage": [
+     0,
+     0
+    ],
+    "trait": 4,
+    "flou": 1.0,
+    "largeur": 600
+   },
+   {
+    "images": [
+     977,
+     1032
+    ],
+    "lignes": [
+     "wunela.com"
+    ],
+    "y": 992,
+    "taille": 50,
+    "graisse": 800,
+    "police": "/usr/share/fonts/opentype/inter/Inter-ExtraBold.otf",
+    "decalage": [
+     0,
+     0
+    ],
+    "trait": 4,
+    "flou": 1.0,
+    "largeur": 600
+   },
+   {
+    "images": [
+     1070,
+     1121
+    ],
+    "lignes": [
+     "Titaneo"
+    ],
+    "y": 643,
+    "taille": 114,
+    "graisse": 800,
+    "police": "/usr/share/fonts/opentype/inter/Inter-ExtraBold.otf",
+    "decalage": [
+     0,
+     0
+    ],
+    "trait": 0,
+    "flou": 0,
+    "largeur": 600
+   }
+  ]
+ },
+ "marque": "Titaneo",
+ "produit": "poêle en titane Titaneo",
+ "site": "https://wunela.com/",
+ "offre": "celle de la source (-70% soldes, derniers jours)",
+ "controle": {
+  "sans_voix": []
+ },
+ "notes": "Étape 0 : source FR, vendeur en magasin. Marque dite 2 fois (S2 'La TitaneX ?', S13 'titanexofficiel.com') -> seules ces 2 phrases refaites avec un clone du vendeur (échantillon sans les répliques du client) et collées sur la musique isolée. Logos TitaneX sur le carton tenu et sur les cartons des étagères : effacés image par image (masque clair-sur-orange + inpainting, script logo_orange) ; badge TITANEX LUC suivi et réécrit TITANEO. Sous-titres mot à mot blancs sans fond gardés, sauf 'la TitaneX, oui' (211-257) et 'titanexofficiel.com' (977-1032) refaits ; écran de fin TitaneX (1070-1121) refait en Titaneo.",
+ "bilan": {
+  "duree_source_s": 37.5,
+  "vmake_s": 0,
+  "caracteres_elevenlabs": 180,
+  "replicate_appels": 2,
+  "reprises": 1,
+  "problemes": [
+   "Logo TitaneX sur le carton tenu (presque tous les plans) et sur les cartons des étagères : effacement image par image (masque blanc-sur-orange, fond médian, inpainting OpenCV), plusieurs réglages : seuil fixe -> touche la peau du visage ; ring test seul -> laisse les grosses lettres ; zone du logo par blanc pur + protection des sous-titres (blanc collé au noir)",
+   "Côté du carton porté de profil (940-1069) et carton levé (255-360) : 2e passe ciblée",
+   "Patch 'interp' rectangle trop visible sur sous-titres sans fond -> inpainting des seules lettres d'origine",
+   "Badge : mot effacé (demande élève), nom LUC gardé",
+   "Clone fait sur les seules répliques du vendeur (le client parle hors champ)",
+   "Petites taches grises près des sous-titres sur le carton (zone protégée) ; carton laissé sans logo"
+  ]
+ }
+}
