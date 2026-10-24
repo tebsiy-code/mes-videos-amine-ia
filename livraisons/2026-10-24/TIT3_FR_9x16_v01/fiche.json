@@ -1,0 +1,72 @@
+{
+ "ref": "TIT3",
+ "langue_source": "fr",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "",
+  "repli_id": "",
+  "vitesse_max": 1.07
+ },
+ "lignes": [],
+ "mix": {
+  "fond": "musique"
+ },
+ "rendu": {
+  "patches": [
+   {
+    "images": [
+     2377,
+     2416
+    ],
+    "rect": [
+     258,
+     936,
+     464,
+     1000
+    ],
+    "remplir": "interp"
+   }
+  ],
+  "textes": [
+   {
+    "images": [
+     2377,
+     2416
+    ],
+    "lignes": [
+     "Titaneo"
+    ],
+    "y": 968,
+    "taille": 48,
+    "graisse": 800,
+    "police": "/usr/share/fonts/opentype/inter/Inter-ExtraBold.otf",
+    "decalage": [
+     0,
+     0
+    ],
+    "trait": 4,
+    "flou": 1.5
+   }
+  ]
+ },
+ "marque": "Titaneo",
+ "produit": "poêle en titane Titaneo",
+ "site": "https://wunela.com/",
+ "offre": "celle de la source (-60%, 90 jours, garantie à vie)",
+ "controle": {
+  "sans_voix": []
+ },
+ "notes": "Étape 0 : source déjà en français. Marque dite une seule fois (S18 'Découvrez la poêle Titan-X', 79.17-80.65 s) et écrite une fois (sous-titre blanc sans fond, images 2377-2416, mot TitaneX). Le reste (Auchan = magasin, pas la marque) gardé tel quel. Méthode : patch interp + texte 'Titaneo' sur le mot ; voix : seule la phrase S18 refaite avec le clone. Pas de Vmake.",
+ "bilan": {
+  "duree_source_s": 153.8,
+  "vmake_s": 0,
+  "caracteres_elevenlabs": 27,
+  "replicate_appels": 12,
+  "reprises": 0,
+  "problemes": [
+   "Replicate : vidéo de 154 s -> 502 à l'envoi (Prefer wait=60), puis prédictions bloquées en 'processing' 10-35 min (facturées ?), annulées ; extrait de 30 s séparé au 2e essai (1er : 'Prediction interrupted')",
+   "Marque dite une seule fois : seule la phrase S18 refaite (clone sur l'extrait 62-92 s) et collée dans le son d'origine sur la musique isolée, fondus 25 ms",
+   "Mot TitaneX à l'écran (images 2377-2416, texte blanc sans fond) : patch interp + texte Inter ExtraBold, rectangle flou léger visible sur le plan comptoir"
+  ]
+ }
+}
