@@ -1,0 +1,71 @@
+{
+ "ref": "TIT6",
+ "langue_source": "fr",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "",
+  "repli_id": "",
+  "vitesse_max": 1.07
+ },
+ "lignes": [],
+ "mix": {
+  "fond": "musique"
+ },
+ "rendu": {
+  "patches": [
+   {
+    "images": [
+     2410,
+     2449
+    ],
+    "rect": [
+     258,
+     936,
+     464,
+     1000
+    ],
+    "remplir": "interp"
+   }
+  ],
+  "textes": [
+   {
+    "images": [
+     2410,
+     2449
+    ],
+    "lignes": [
+     "Titaneo"
+    ],
+    "y": 968,
+    "taille": 48,
+    "graisse": 800,
+    "police": "/usr/share/fonts/opentype/inter/Inter-ExtraBold.otf",
+    "decalage": [
+     0,
+     0
+    ],
+    "trait": 4,
+    "flou": 1.5
+   }
+  ]
+ },
+ "marque": "Titaneo",
+ "produit": "poêle en titane Titaneo",
+ "site": "https://wunela.com/",
+ "offre": "celle de la source",
+ "controle": {
+  "sans_voix": []
+ },
+ "notes": "Version '5 poêles entrepôt' du même montage que TIT3. Marque dite une fois (Découvrez la poêle TitaneX) -> phrase TTS de TIT3 collée sur la musique isolée d'un extrait de 30 s ; mot TitaneX à l'écran images 2410-2449 -> patch interp + 'Titaneo'.",
+ "bilan": {
+  "duree_source_s": 155.2,
+  "vmake_s": 0,
+  "caracteres_elevenlabs": 0,
+  "replicate_appels": 1,
+  "reprises": 0,
+  "problemes": [
+   "Phrase TTS de TIT3 réutilisée, calée par corrélation de la voix (décalage +1.10 s)",
+   "Boucle d'attente pgrep -f qui se trouvait elle-même : ne pas utiliser pgrep -f avec le texte de la commande"
+  ]
+ }
+}
