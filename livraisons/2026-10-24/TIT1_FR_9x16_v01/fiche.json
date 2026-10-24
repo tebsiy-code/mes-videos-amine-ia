@@ -1,0 +1,86 @@
+{
+ "ref": "TIT1",
+ "langue_source": "fr",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "Na34cdmQZOAUsyeAScCN",
+  "repli_id": "",
+  "vitesse_max": 1.07
+ },
+ "lignes": [
+  {
+   "id": "L1",
+   "texte": "Aucun revêtement, aucun produit chimique, aucune couche, aucun compromis.",
+   "debut": 3.18,
+   "fin_fenetre": 8.1,
+   "vitesse": 1.07
+  },
+  {
+   "id": "L2",
+   "texte": "C'est du titane pur.",
+   "debut": 8.14,
+   "fin_fenetre": 9.32,
+   "vitesse": 1.07
+  },
+  {
+   "id": "L3",
+   "texte": "La surface elle-même est anti-adhésive, pas une couche posée dessus, pas un film qui s'use après quelques mois.",
+   "debut": 9.35,
+   "fin_fenetre": 15.38,
+   "vitesse": 1.07
+  },
+  {
+   "id": "L4",
+   "texte": "Titaneo ne contient aucun PFAS, aucun écaillage, aucune substance toxique dans tes aliments.",
+   "debut": 15.4,
+   "fin_fenetre": 21.05,
+   "vitesse": 1.07
+  },
+  {
+   "id": "L5",
+   "texte": "Pas besoin de la remplacer quand un revêtement lâche : il n'y en a pas.",
+   "debut": 21.1,
+   "fin_fenetre": 24.95,
+   "vitesse": 1.07
+  },
+  {
+   "id": "L6",
+   "texte": "Une seule poêle pour des années.",
+   "debut": 25.05,
+   "fin_fenetre": 26.6
+  },
+  {
+   "id": "L7",
+   "texte": "Titaneo, garantie à vie, lien ci-dessous.",
+   "debut": 26.78,
+   "fin_fenetre": 29.6
+  }
+ ],
+ "mix": {
+  "fond": "musique"
+ },
+ "rendu": {
+  "blocs": "auto"
+ },
+ "marque": "Titaneo",
+ "produit": "poêle en titane Titaneo",
+ "site": "https://wunela.com/",
+ "offre": "celle de la source (garantie à vie, lien ci-dessous)",
+ "controle": {
+  "sans_voix": []
+ },
+ "notes": "Étape 0 : source déjà en français, seule la marque change (TitaneX -> Titaneo, voix + sous-titres). Sous-titres type 1 (étiquettes blanches fixes, 1-2 lignes) -> blocs.py, pas de Vmake. Pas d'URL à l'écran, CTA 'lien ci-dessous'. Pas de logo vu sur la grille.",
+ "bilan": {
+  "duree_source_s": 29.6,
+  "vmake_s": 0,
+  "caracteres_elevenlabs": 1039,
+  "replicate_appels": 1,
+  "reprises": 2,
+  "problemes": [
+   "Replicate sans crédit (402) au départ, rechargé par l'élève",
+   "Vidéo envoyée 2 fois (doublon)",
+   "Clone plus lent que la voix d'origine : vitesse 1.07 sur L1-L5 et L3/L4/L5 raccourcies",
+   "Requête DELETE du clone via urllib : 400 (clone déjà supprimé ensuite, vérifié)"
+  ]
+ }
+}
