@@ -1,0 +1,185 @@
+{
+ "ref": "VI2",
+ "langue_source": "es",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "53krsbnxrF7KlFP38Mze",
+  "repli_id": "",
+  "vitesse_max": 1.07
+ },
+ "lignes": [
+  {
+   "id": "L1",
+   "texte": "Au Japon, presque personne ne coupe les griffes de son chat.",
+   "debut": 0.06,
+   "fin_fenetre": 2.81
+  },
+  {
+   "id": "L2",
+   "texte": "Et non, ce n'est pas parce qu'elles ne poussent pas.",
+   "debut": 3.07,
+   "fin_fenetre": 4.75
+  },
+  {
+   "id": "L3",
+   "texte": "C'est parce que presque chaque maison a un truc qu'en Europe, presque personne ne connaît.",
+   "debut": 5.17,
+   "fin_fenetre": 9.61
+  },
+  {
+   "id": "L4",
+   "texte": "Ni la nourriture, ni la race.",
+   "debut": 9.72,
+   "fin_fenetre": 11.53
+  },
+  {
+   "id": "L5",
+   "texte": "C'est une règle toute simple.",
+   "debut": 11.58,
+   "fin_fenetre": 13.07
+  },
+  {
+   "id": "L6",
+   "texte": "Donner au chat un vrai truc à griffer.",
+   "debut": 13.13,
+   "fin_fenetre": 15.79
+  },
+  {
+   "id": "L7",
+   "texte": "Ni plastique, ni carton.",
+   "debut": 15.84,
+   "fin_fenetre": 17.33
+  },
+  {
+   "id": "L8",
+   "texte": "Car si un chat n'a rien de vrai à griffer, ses griffes n'arrêtent pas de pousser.",
+   "debut": 17.38,
+   "fin_fenetre": 22.19
+  },
+  {
+   "id": "L9",
+   "texte": "Elles se recourbent, se plantent dans le canapé, et on croit qu'il a mauvais caractère.",
+   "debut": 22.24,
+   "fin_fenetre": 26.35
+  },
+  {
+   "id": "L10",
+   "texte": "Pas du tout.",
+   "debut": 26.4,
+   "fin_fenetre": 26.97
+  },
+  {
+   "id": "L11",
+   "texte": "Il a mal.",
+   "debut": 27.11,
+   "fin_fenetre": 27.67
+  },
+  {
+   "id": "L12",
+   "texte": "Et il essaie de régler ça tout seul.",
+   "debut": 27.85,
+   "fin_fenetre": 29.85
+  },
+  {
+   "id": "L13a",
+   "texte": "Ici, la réponse a toujours été la vraie corde naturelle, tressée bien serrée,",
+   "debut": 29.9,
+   "fin_fenetre": 34.93
+  },
+  {
+   "id": "L13b",
+   "texte": "avec la même résistance que l'écorce d'un arbre.",
+   "debut": 34.98,
+   "fin_fenetre": 37.83
+  },
+  {
+   "id": "L14",
+   "texte": "Dès qu'il griffe, ses griffes s'y plantent et se liment toutes seules, comme dans la nature.",
+   "debut": 37.88,
+   "fin_fenetre": 43.07
+  },
+  {
+   "id": "L15",
+   "texte": "Sans astuce ni herbe à chat, son instinct fait le reste.",
+   "debut": 43.12,
+   "fin_fenetre": 46.39
+  },
+  {
+   "id": "L16",
+   "texte": "Et comme c'est de la vraie corde, elle garde son odeur : il y revient encore et encore, et en fait son coin.",
+   "debut": 46.44,
+   "fin_fenetre": 52.15
+  },
+  {
+   "id": "L17",
+   "texte": "Nidélia est fait exactement comme ça : tissé main en corde naturelle, pas en synthétique de magasin.",
+   "debut": 52.2,
+   "fin_fenetre": 57.91
+  },
+  {
+   "id": "L18",
+   "texte": "En ce moment, il est à moins 50 %, avec 90 jours de garantie.",
+   "debut": 58.35,
+   "fin_fenetre": 62.97
+  },
+  {
+   "id": "L19",
+   "texte": "S'il n'en fait pas son coin, on te rembourse.",
+   "debut": 63.02,
+   "fin_fenetre": 65.45
+  },
+  {
+   "id": "L20",
+   "texte": "Le lien est en dessous.",
+   "debut": 65.5,
+   "fin_fenetre": 66.85
+  }
+ ],
+ "mix": {
+  "fond": "musique"
+ },
+ "rendu": {
+  "zones_vmake": "auto",
+  "sous_titres": {
+   "mode": "mots",
+   "y": 846,
+   "taille": 40,
+   "graisse": 700,
+   "couleur": [
+    255,
+    255,
+    255
+   ],
+   "couleur_ombre": [
+    0,
+    0,
+    0
+   ],
+   "decalage": [
+    1,
+    2
+   ],
+   "max_car_ligne": 26,
+   "max_mots": 6,
+   "max_car": 26
+  }
+ },
+ "marque": "Wunela",
+ "produit": "Nidélia",
+ "site": "https://wunela.com/",
+ "offre": "celle de la source",
+ "controle": {
+  "sans_voix": []
+ },
+ "notes": "Type 2/3 : sous-titres blancs avec mots-clés rouges, sans fond, y~800-890, toute la vidéo. Vmake (~134 crédits). 'Nidoro' dans voix et sous-titres. Pas de logo/site. CTA 'El enlace está aquí abajo'.",
+ "bilan": {
+  "duree_source_s": 66.9,
+  "vmake_s": 66.9,
+  "caracteres_elevenlabs": 1336,
+  "replicate_appels": 2,
+  "reprises": 1,
+  "problemes": [
+   "Replicate 502 au 1er essai, réessai OK"
+  ]
+ }
+}
