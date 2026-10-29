@@ -1,0 +1,208 @@
+{
+ "ref": "VI6",
+ "langue_source": "es",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "cf6T5xkKVX20MWjrQrLf",
+  "repli_id": "",
+  "vitesse_max": 1.07
+ },
+ "lignes": [
+  {
+   "id": "L1",
+   "texte": "Pardon à tous ceux qui ont acheté Nidélia : on vous a menti.",
+   "debut": 0.06,
+   "fin_fenetre": 3.15
+  },
+  {
+   "id": "L2",
+   "texte": "Oui, c'est vrai, il est fait en corde naturelle tissée à la main, qui garde l'odeur de ton chat pour toujours et en fait un vrai territoire, qu'il sent comme le sien.",
+   "debut": 3.2,
+   "fin_fenetre": 11.03
+  },
+  {
+   "id": "L3",
+   "texte": "Et oui, c'est vrai, les chats ne font pas que s'y griffer : ils dorment dedans, y apportent leurs jouets, et ont enfin un endroit bien à eux.",
+   "debut": 11.08,
+   "fin_fenetre": 17.39
+  },
+  {
+   "id": "L4",
+   "texte": "Et oui, des milliers de propriétaires ont vu leurs meubles arrêter de souffrir en une semaine.",
+   "debut": 17.44,
+   "fin_fenetre": 22.23
+  },
+  {
+   "id": "L5",
+   "texte": "Mais on ne pensait pas pouvoir faire encore mieux.",
+   "debut": 22.28,
+   "fin_fenetre": 24.67
+  },
+  {
+   "id": "L6",
+   "texte": "Voilà le mensonge.",
+   "debut": 24.72,
+   "fin_fenetre": 25.59
+  },
+  {
+   "id": "L7",
+   "texte": "Alors on a fait trois gros changements.",
+   "debut": 25.8,
+   "fin_fenetre": 27.71
+  },
+  {
+   "id": "L8",
+   "texte": "Un : une corde encore plus épaisse.",
+   "debut": 27.76,
+   "fin_fenetre": 29.93
+  },
+  {
+   "id": "L9",
+   "texte": "Elle retient mieux ses phéromones, alors il la préfère vraiment à tes meubles.",
+   "debut": 29.98,
+   "fin_fenetre": 33.67
+  },
+  {
+   "id": "L10",
+   "texte": "Les chats reviennent toujours aux mêmes endroits, parce que leur odeur y reste pour toujours.",
+   "debut": 33.72,
+   "fin_fenetre": 37.71
+  },
+  {
+   "id": "L11",
+   "texte": "Deux :",
+   "debut": 37.76,
+   "fin_fenetre": 38.07
+  },
+  {
+   "id": "L12",
+   "texte": "des anses courbées qui servent aussi à griffer.",
+   "debut": 38.37,
+   "fin_fenetre": 40.77
+  },
+  {
+   "id": "L13",
+   "texte": "Les chats adorent les attraper et les mordiller en pétrissant : ils trouvent enfin cette satisfaction de tout le corps qu'ils cherchaient depuis longtemps.",
+   "debut": 40.82,
+   "fin_fenetre": 47.39
+  },
+  {
+   "id": "L14",
+   "texte": "Trois :",
+   "debut": 47.65,
+   "fin_fenetre": 47.79
+  },
+  {
+   "id": "L15",
+   "texte": "on a renforcé les bords, pour qu'il garde sa forme même après des mois d'utilisation.",
+   "debut": 48.38,
+   "fin_fenetre": 52.15
+  },
+  {
+   "id": "L16",
+   "texte": "Pour ça, chaque panier est tissé main en corde naturelle de première qualité, qui s'améliore avec le temps au lieu de s'abîmer.",
+   "debut": 52.2,
+   "fin_fenetre": 57.91
+  },
+  {
+   "id": "L17",
+   "texte": "Il est maintenant ultra résistant : griffures, morsures et marquage de ton chat, pendant des années.",
+   "debut": 58.06,
+   "fin_fenetre": 63.53
+  },
+  {
+   "id": "L18",
+   "texte": "Si Nidélia a d'aussi bons avis de spécialistes du comportement félin, c'est qu'il a été conçu par de vrais propriétaires de chats, qui savent comment ils marquent leur territoire.",
+   "debut": 63.68,
+   "fin_fenetre": 71.17
+  },
+  {
+   "id": "L19",
+   "texte": "En ce moment, il est à moins 50 % pour les nouveaux clients, avec une garantie de 90 jours.",
+   "debut": 71.22,
+   "fin_fenetre": 76.99
+  },
+  {
+   "id": "L20",
+   "texte": "Si ton chat n'en fait pas son coin, on te rembourse.",
+   "debut": 77.04,
+   "fin_fenetre": 79.73
+  }
+ ],
+ "mix": {
+  "fond": "musique"
+ },
+ "rendu": {
+  "zones_vmake": "auto",
+  "sous_titres": {
+   "mode": "mots",
+   "max_mots": 5,
+   "max_car": 22,
+   "y": 850,
+   "taille": 38,
+   "graisse": 700,
+   "couleur": [
+    255,
+    255,
+    255
+   ],
+   "couleur_ombre": [
+    0,
+    0,
+    0
+   ],
+   "decalage": [
+    1,
+    2
+   ],
+   "max_car_ligne": 22
+  },
+  "remplacements": [
+   {
+    "images": [
+     1901,
+     2017
+    ],
+    "depuis": [
+     [
+      1195,
+      1268
+     ],
+     [
+      1386,
+      1428
+     ]
+    ],
+    "mode": "seq"
+   },
+   {
+    "images": [
+     2090,
+     2090
+    ],
+    "image": 2089
+   }
+  ]
+ },
+ "marque": "Wunela",
+ "produit": "Nidélia",
+ "site": "https://wunela.com/",
+ "offre": "celle de la source",
+ "controle": {
+  "sans_voix": []
+ },
+ "notes": "Type 3 : sous-titres blancs avec mot surligné jaune, sans fond, y~850 : Vmake. Captures d'avis clients (logo, 'Nidora') 1901-2017 remplacées par 1195-1268 + 1386-1428. Image 2090 (étiquette STIMULI CAT) remplacée par 2089.",
+ "bilan": {
+  "duree_source_s": 79.8,
+  "vmake_s": 79.8,
+  "caracteres_elevenlabs": 4365,
+  "replicate_appels": 2,
+  "reprises": 3,
+  "problemes": [
+   "Script trop long au 1er jet (retard 6,7 s) : 18 phrases réécrites, puis 5 rallongées, 2e clone",
+   "Captures d'avis clients 1901-2017 remplacées par 1195-1268 + 1386-1428",
+   "Image 2090 (étiquette STIMULI CAT) remplacée par 2089",
+   "Trou de voix restant 1,1 s L2→L3"
+  ]
+ }
+}
