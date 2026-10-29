@@ -1,0 +1,363 @@
+{
+ "ref": "VI3",
+ "langue_source": "es",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "wmlJgtM8B1wrPkJoXkGX",
+  "repli_id": "",
+  "vitesse_max": 1.07
+ },
+ "lignes": [
+  {
+   "id": "L1",
+   "texte": "Voilà exactement ce qui arrive à la griffe d'un chat quand il trouve enfin la bonne surface à griffer.",
+   "debut": 0.06,
+   "fin_fenetre": 4.99
+  },
+  {
+   "id": "L2",
+   "texte": "Ceux qui le découvrent ne reviennent jamais au coupe-griffes, ni à un autre griffoir.",
+   "debut": 5.21,
+   "fin_fenetre": 9.37
+  },
+  {
+   "id": "L3",
+   "texte": "Depuis le jour où ses griffes sont sorties, il cherchait quelque chose.",
+   "debut": 9.82,
+   "fin_fenetre": 12.89
+  },
+  {
+   "id": "L4",
+   "texte": "Pas ton canapé, ni le griffoir en carton posé dans le coin.",
+   "debut": 12.94,
+   "fin_fenetre": 16.67
+  },
+  {
+   "id": "L5",
+   "texte": "Un truc gravé dans son instinct avant sa naissance.",
+   "debut": 16.72,
+   "fin_fenetre": 19.17
+  },
+  {
+   "id": "L6",
+   "texte": "La résistance de l'écorce d'un arbre.",
+   "debut": 19.24,
+   "fin_fenetre": 21.63
+  },
+  {
+   "id": "L7",
+   "texte": "Pendant des milliers d'années, cette surface était partout, mais un jour il est entré dans la maison, et elle a tout simplement disparu.",
+   "debut": 21.68,
+   "fin_fenetre": 27.95
+  },
+  {
+   "id": "L8",
+   "texte": "Alors il a cherché.",
+   "debut": 28.0,
+   "fin_fenetre": 29.41
+  },
+  {
+   "id": "L9",
+   "texte": "Il a testé ton canapé, le plus ressemblant.",
+   "debut": 29.46,
+   "fin_fenetre": 31.69
+  },
+  {
+   "id": "L10",
+   "texte": "Tu as pris du carton : en miettes.",
+   "debut": 31.74,
+   "fin_fenetre": 33.69
+  },
+  {
+   "id": "L11",
+   "texte": "Tu lui as acheté du sisal : son nez, 40 fois plus sensible que le tien, a compris tout de suite, sans aucun doute.",
+   "debut": 33.74,
+   "fin_fenetre": 39.79
+  },
+  {
+   "id": "L12",
+   "texte": "Ça sent le labo.",
+   "debut": 39.84,
+   "fin_fenetre": 41.53
+  },
+  {
+   "id": "L13",
+   "texte": "Pendant ce temps, ses griffes poussaient, chaque semaine plus recourbées, jusqu'à ce qu'il se mette à les mordiller.",
+   "debut": 41.58,
+   "fin_fenetre": 47.15
+  },
+  {
+   "id": "L14",
+   "texte": "Presque personne ne se demande pourquoi.",
+   "debut": 47.2,
+   "fin_fenetre": 49.05
+  },
+  {
+   "id": "L15",
+   "texte": "Toi, si.",
+   "debut": 49.35,
+   "fin_fenetre": 49.67
+  },
+  {
+   "id": "L16",
+   "texte": "Alors voici la réponse.",
+   "debut": 50.25,
+   "fin_fenetre": 51.19
+  },
+  {
+   "id": "L17",
+   "texte": "Ce que ses griffes cherchaient depuis toujours : de la corde.",
+   "debut": 51.79,
+   "fin_fenetre": 54.19
+  },
+  {
+   "id": "L18",
+   "texte": "La corde naturelle a la même résistance que l'écorce.",
+   "debut": 54.81,
+   "fin_fenetre": 57.59
+  },
+  {
+   "id": "L19",
+   "texte": "Dès qu'il plante ses griffes dedans et qu'il tire, cette résistance retire petit à petit la couche morte.",
+   "debut": 57.64,
+   "fin_fenetre": 62.17
+  },
+  {
+   "id": "L20",
+   "texte": "La griffe se lime.",
+   "debut": 62.56,
+   "fin_fenetre": 63.73
+  },
+  {
+   "id": "L21",
+   "texte": "Mais la corde fait autre chose.",
+   "debut": 63.78,
+   "fin_fenetre": 65.97
+  },
+  {
+   "id": "L22",
+   "texte": "Presque aucune surface ne garde vraiment les phéromones qu'un chat laisse derrière lui en griffant.",
+   "debut": 66.02,
+   "fin_fenetre": 70.51
+  },
+  {
+   "id": "L23",
+   "texte": "Son odeur disparaît en quelques heures.",
+   "debut": 70.56,
+   "fin_fenetre": 72.67
+  },
+  {
+   "id": "L24",
+   "texte": "La corde ?",
+   "debut": 72.72,
+   "fin_fenetre": 73.41
+  },
+  {
+   "id": "L25",
+   "texte": "Oui.",
+   "debut": 73.46,
+   "fin_fenetre": 74.05
+  },
+  {
+   "id": "L26",
+   "texte": "Après quelques séances, elle sent comme lui.",
+   "debut": 74.1,
+   "fin_fenetre": 76.61
+  },
+  {
+   "id": "L27",
+   "texte": "En une semaine, son cerveau se dit : c'est à moi, ici je suis en sécurité.",
+   "debut": 76.66,
+   "fin_fenetre": 81.21
+  },
+  {
+   "id": "L28",
+   "texte": "Fini la recherche : plus de coupe-griffes, plus de bagarres, plus besoin de se cacher pendant des heures, tout au fond, sous le lit.",
+   "debut": 81.26,
+   "fin_fenetre": 87.89
+  },
+  {
+   "id": "L29",
+   "texte": "Ça, c'est Nidélia.",
+   "debut": 88.32,
+   "fin_fenetre": 89.33
+  },
+  {
+   "id": "L30",
+   "texte": "On n'utilise pas de fibre synthétique, même moins chère, car les chats l'ont rejetée.",
+   "debut": 89.53,
+   "fin_fenetre": 93.77
+  },
+  {
+   "id": "L31",
+   "texte": "La corde naturelle, ce sont eux qui l'ont choisie.",
+   "debut": 93.82,
+   "fin_fenetre": 96.07
+  },
+  {
+   "id": "L32",
+   "texte": "Et celui qui se demande pourquoi, c'est justement la personne qu'un chat a la chance d'avoir à ses côtés.",
+   "debut": 96.15,
+   "fin_fenetre": 101.47
+  },
+  {
+   "id": "L33",
+   "texte": "90 jours sans risque.",
+   "debut": 101.52,
+   "fin_fenetre": 103.35
+  },
+  {
+   "id": "L34",
+   "texte": "S'il n'en fait pas son coin, tu ne paies pas.",
+   "debut": 103.4,
+   "fin_fenetre": 105.61
+  },
+  {
+   "id": "L35",
+   "texte": "Et en ce moment, 50 % de réduction.",
+   "debut": 105.66,
+   "fin_fenetre": 110.12
+  }
+ ],
+ "mix": {
+  "fond": "musique"
+ },
+ "rendu": {
+  "blocs": "auto",
+  "blocs_auto": {
+   "images": [
+    0,
+    3237
+   ]
+  },
+  "patches": [
+   {
+    "images": [
+     3238,
+     3304
+    ],
+    "rect": [
+     5,
+     135,
+     365,
+     255
+    ],
+    "remplir": "interp"
+   },
+   {
+    "images": [
+     3238,
+     3304
+    ],
+    "rect": [
+     90,
+     540,
+     630,
+     672
+    ],
+    "remplir": "interp"
+   },
+   {
+    "images": [
+     3238,
+     3304
+    ],
+    "rect": [
+     172,
+     923,
+     546,
+     1033
+    ],
+    "remplir": [
+     255,
+     255,
+     255
+    ],
+    "rayon": 14,
+    "lignes": [
+     {
+      "texte": "JE PROTÈGE",
+      "x": 360,
+      "y": 958,
+      "taille": 34,
+      "graisse": 800,
+      "couleur": [
+       20,
+       20,
+       20
+      ],
+      "ancre": "mm",
+      "largeur": 340
+     },
+     {
+      "texte": "SES GRIFFES",
+      "x": 360,
+      "y": 997,
+      "taille": 34,
+      "graisse": 800,
+      "couleur": [
+       20,
+       20,
+       20
+      ],
+      "ancre": "mm",
+      "largeur": 340
+     }
+    ]
+   }
+  ],
+  "textes": [
+   {
+    "images": [
+     3238,
+     3304
+    ],
+    "lignes": [
+     "Wunela"
+    ],
+    "y": 195,
+    "x": 175,
+    "taille": 72,
+    "graisse": 700,
+    "police": "serif"
+   },
+   {
+    "images": [
+     3238,
+     3304
+    ],
+    "lignes": [
+     "Livraison offerte · Satisfait",
+     "ou remboursé 90 jours"
+    ],
+    "y": 605,
+    "taille": 34,
+    "graisse": 700
+   }
+  ]
+ },
+ "marque": "Wunela",
+ "produit": "Nidélia",
+ "site": "https://wunela.com/",
+ "offre": "celle de la source",
+ "controle": {
+  "sans_voix": [
+   "Wunela",
+   "Livraison offerte · Satisfait ou remboursé 90 jours",
+   "JE PROTÈGE SES GRIFFES"
+  ]
+ },
+ "notes": "Type 1 (blocs blancs). Carte de fin 3238-3304 : logo VittaSa -> Wunela, 'Envío gratis · Garantía de satisfacción de 90 días' -> FR, bouton 'QUIERO PROTEGER SUS GARRAS' -> 'JE PROTÈGE SES GRIFFES'. Pas de Vmake.",
+ "bilan": {
+  "duree_source_s": 110.3,
+  "vmake_s": 0,
+  "caracteres_elevenlabs": 2967,
+  "replicate_appels": 1,
+  "reprises": 3,
+  "problemes": [
+   "7 phrases rallongées après contrôle (trous de voix), 2e clone",
+   "Carte de fin refaite à la main (logo VittaSa -> Wunela, texte, bouton) : patch interp du logo un peu visible",
+   "Petite étiquette anglaise 'DEAD OUTER KERATIN SHEATH' gardée au début"
+  ]
+ }
+}

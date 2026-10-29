@@ -1,0 +1,12 @@
+OK     :
+  - format 720x1280 identique à la source
+  - durée vidéo 110.17 s / source 110.17 s = 100.0 %
+  - mots affichés contre voix : 0 écart(s) notable(s)
+  - sous-titres de moins de 0,4 s : aucun
+  - phrases plus longues que leur fenêtre : aucune
+  - trous de voix absents de la source : aucun
+  - texte d'origine visible hors de nos rectangles : 0 image(s)
+ALERTE :
+  - à vérifier : sous-titre d'origine sur des images sans rectangle : 3238-3304
+À vérifier à la main (non automatisable) : fidélité de la voix à l'écoute, logo ou texte d'origine sur les micro-plans, qualité des plans remplacés.
+planche : travail/VI3/controle_planche.jpg
