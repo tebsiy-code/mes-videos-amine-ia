@@ -1,0 +1,11 @@
+OK     :
+  - format 720x1280 identique à la source
+  - durée vidéo 81.90 s / source 81.90 s = 100.0 %
+  - mots affichés contre voix : 0 écart(s) notable(s)
+  -   (2 petit(s) écart(s) de graphie ou de transcription)
+  - phrases plus longues que leur fenêtre : aucune
+ALERTE :
+  - sous-titres de moins de 0,3 s : [('fait,', 0.27), ('arbre,', 0.27)]
+  - trous de voix absents de la source : L17→L18 64.1-65.5 s (source parle 1.2 s)
+À vérifier à la main (non automatisable) : fidélité de la voix à l'écoute, logo ou texte d'origine sur les micro-plans, qualité des plans remplacés.
+planche : travail/VI5/controle_planche.jpg
