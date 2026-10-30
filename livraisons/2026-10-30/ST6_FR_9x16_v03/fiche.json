@@ -1,0 +1,353 @@
+{
+ "ref": "ST6",
+ "langue_source": "en",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "DwiHqs4e6MUHReUGRPMJ",
+  "repli_id": "",
+  "vitesse_max": 1.07
+ },
+ "lignes": [
+  {
+   "id": "L1",
+   "texte": "Un chat d'intérieur doit se faire couper les griffes toutes les deux semaines, à vie.",
+   "debut": 0.06,
+   "fin_fenetre": 3.89
+  },
+  {
+   "id": "L2",
+   "texte": "Beaucoup l'acceptent.",
+   "debut": 4.56,
+   "fin_fenetre": 5.27
+  },
+  {
+   "id": "L3",
+   "texte": "Ceux qui demandent pourquoi n'y reviennent jamais.",
+   "debut": 6.06,
+   "fin_fenetre": 8.13
+  },
+  {
+   "id": "L4",
+   "texte": "Dès ses premières griffes, elle cherchait quelque chose.",
+   "debut": 8.39,
+   "fin_fenetre": 12.01
+  },
+  {
+   "id": "L5",
+   "texte": "Pas ton canapé.",
+   "debut": 12.06,
+   "fin_fenetre": 12.99
+  },
+  {
+   "id": "L6",
+   "texte": "Ni le griffoir en carton posé dans le coin.",
+   "debut": 13.32,
+   "fin_fenetre": 16.07
+  },
+  {
+   "id": "L7",
+   "texte": "Un truc gravé dans son instinct avant sa naissance.",
+   "debut": 16.12,
+   "fin_fenetre": 19.25
+  },
+  {
+   "id": "L8",
+   "texte": "La résistance de l'écorce.",
+   "debut": 19.3,
+   "fin_fenetre": 21.07
+  },
+  {
+   "id": "L9",
+   "texte": "Pendant des millénaires, elle était partout.",
+   "debut": 21.12,
+   "fin_fenetre": 23.75
+  },
+  {
+   "id": "L10",
+   "texte": "Puis elle est entrée chez toi, et l'écorce a disparu.",
+   "debut": 23.8,
+   "fin_fenetre": 26.67
+  },
+  {
+   "id": "L11",
+   "texte": "Alors elle a cherché.",
+   "debut": 26.72,
+   "fin_fenetre": 27.79
+  },
+  {
+   "id": "L12",
+   "texte": "Ton canapé, le plus proche qu'elle ait trouvé.",
+   "debut": 28.06,
+   "fin_fenetre": 30.83
+  },
+  {
+   "id": "L13",
+   "texte": "Tu as pris du carton.",
+   "debut": 30.88,
+   "fin_fenetre": 31.93
+  },
+  {
+   "id": "L14",
+   "texte": "En miettes.",
+   "debut": 32.22,
+   "fin_fenetre": 32.73
+  },
+  {
+   "id": "L15",
+   "texte": "Du sisal.",
+   "debut": 33.12,
+   "fin_fenetre": 33.69
+  },
+  {
+   "id": "L16",
+   "texte": "Son nez, 40 fois plus fin que le tien, a dit : non.",
+   "debut": 34.27,
+   "fin_fenetre": 38.11
+  },
+  {
+   "id": "L17",
+   "texte": "Ça sent le labo.",
+   "debut": 38.16,
+   "fin_fenetre": 39.55
+  },
+  {
+   "id": "L18",
+   "texte": "Pas difficile.",
+   "debut": 39.6,
+   "fin_fenetre": 40.75
+  },
+  {
+   "id": "L19",
+   "texte": "Elle cherchait.",
+   "debut": 40.8,
+   "fin_fenetre": 41.87
+  },
+  {
+   "id": "L20",
+   "texte": "Et ses griffes poussaient.",
+   "debut": 41.92,
+   "fin_fenetre": 43.61
+  },
+  {
+   "id": "L21",
+   "texte": "Plus courbées chaque semaine, jusqu'à les mordiller.",
+   "debut": 43.66,
+   "fin_fenetre": 47.03
+  },
+  {
+   "id": "L22",
+   "texte": "Peu de maîtres demandent pourquoi.",
+   "debut": 47.08,
+   "fin_fenetre": 48.99
+  },
+  {
+   "id": "L23",
+   "texte": "Toi, si.",
+   "debut": 49.13,
+   "fin_fenetre": 49.59
+  },
+  {
+   "id": "L24",
+   "texte": "La réponse :",
+   "debut": 50.44,
+   "fin_fenetre": 50.61
+  },
+  {
+   "id": "L25",
+   "texte": "ce que ses griffes cherchaient, c'est de la corde.",
+   "debut": 51.41,
+   "fin_fenetre": 53.69
+  },
+  {
+   "id": "L26",
+   "texte": "La corde naturelle résiste comme l'écorce.",
+   "debut": 54.01,
+   "fin_fenetre": 56.21
+  },
+  {
+   "id": "L27",
+   "texte": "Quand elle plante ses griffes et qu'elle tire, la résistance retire la couche morte.",
+   "debut": 56.94,
+   "fin_fenetre": 61.15
+  },
+  {
+   "id": "L28",
+   "texte": "La griffe se lime.",
+   "debut": 61.2,
+   "fin_fenetre": 62.89
+  },
+  {
+   "id": "L29",
+   "texte": "Chaque coup de griffe fait ce que la nature a prévu.",
+   "debut": 62.94,
+   "fin_fenetre": 65.79
+  },
+  {
+   "id": "L30",
+   "texte": "Et la corde fait plus.",
+   "debut": 65.84,
+   "fin_fenetre": 67.29
+  },
+  {
+   "id": "L31",
+   "texte": "La plupart des surfaces ne gardent pas ses phéromones.",
+   "debut": 67.42,
+   "fin_fenetre": 71.07
+  },
+  {
+   "id": "L32",
+   "texte": "Son odeur part en quelques heures.",
+   "debut": 71.12,
+   "fin_fenetre": 72.75
+  },
+  {
+   "id": "L33",
+   "texte": "La corde, si.",
+   "debut": 73.17,
+   "fin_fenetre": 73.81
+  },
+  {
+   "id": "L34",
+   "texte": "Vite, elle sent comme elle.",
+   "debut": 74.43,
+   "fin_fenetre": 76.09
+  },
+  {
+   "id": "L35",
+   "texte": "En une semaine, son cerveau dit : à moi.",
+   "debut": 76.14,
+   "fin_fenetre": 78.49
+  },
+  {
+   "id": "L36",
+   "texte": "En sécurité.",
+   "debut": 78.54,
+   "fin_fenetre": 79.35
+  },
+  {
+   "id": "L37",
+   "texte": "Fini la recherche.",
+   "debut": 79.62,
+   "fin_fenetre": 80.41
+  },
+  {
+   "id": "L38",
+   "texte": "Plus de coupe-griffes.",
+   "debut": 80.88,
+   "fin_fenetre": 81.31
+  },
+  {
+   "id": "L39",
+   "texte": "Plus de lutte.",
+   "debut": 82.19,
+   "fin_fenetre": 82.17
+  },
+  {
+   "id": "L40",
+   "texte": "Plus de cachette sous le lit.",
+   "debut": 83.09,
+   "fin_fenetre": 84.39
+  },
+  {
+   "id": "L41",
+   "texte": "Voilà le panier Nidélia.",
+   "debut": 84.72,
+   "fin_fenetre": 85.65
+  },
+  {
+   "id": "L42",
+   "texte": "On a renoncé au synthétique, même moins cher, à cause des chats.",
+   "debut": 86.16,
+   "fin_fenetre": 90.17
+  },
+  {
+   "id": "L43",
+   "texte": "Ils l'ont tous rejeté, alors on a pris la corde naturelle, sur leur conseil.",
+   "debut": 90.22,
+   "fin_fenetre": 95.05
+  },
+  {
+   "id": "L44",
+   "texte": "Le maître qui demande pourquoi, c'est justement celui qu'un chat a la chance d'avoir.",
+   "debut": 95.1,
+   "fin_fenetre": 100.31
+  },
+  {
+   "id": "L45",
+   "texte": "90 jours sans risque.",
+   "debut": 100.36,
+   "fin_fenetre": 101.87
+  },
+  {
+   "id": "L46",
+   "texte": "Si elle ne l'adopte pas, tu ne paies pas.",
+   "debut": 102.04,
+   "fin_fenetre": 104.11
+  },
+  {
+   "id": "L47",
+   "texte": "Là, moins 50 % pour les nouveaux clients.",
+   "debut": 104.37,
+   "fin_fenetre": 107.21
+  }
+ ],
+ "mix": {
+  "fond": "musique"
+ },
+ "rendu": {
+  "blocs": "auto",
+  "blocs_auto": {
+   "forcer": [
+    {
+     "images": [
+      2762,
+      2818
+     ],
+     "rect": [
+      200,
+      883,
+      520,
+      1007
+     ],
+     "lignes": 2
+    },
+    {
+     "images": [
+      3098,
+      3120
+     ],
+     "rect": [
+      183,
+      887,
+      537,
+      1004
+     ],
+     "lignes": 2
+    }
+   ]
+  },
+  "patches": []
+ },
+ "marque": "Wunela",
+ "produit": "Nidélia",
+ "site": "https://wunela.com/",
+ "offre": "celle de la source",
+ "controle": {
+  "sans_voix": []
+ },
+ "bilan": {
+  "duree_source_s": 107.3,
+  "vmake_s": 0,
+  "caracteres_elevenlabs": 4077,
+  "replicate_appels": 1,
+  "reprises": 3,
+  "problemes": [
+   "Voix lente : 46 phrases raccourcies puis 2 rallongées",
+   "Bloc forcé 2762-2778 (sous-titre anglais non détecté par blocs.py)",
+   "Grande étiquette STIMULI CAT 2530-2574 et petite 3004-3052 recouvertes",
+   "Offre 45 jours -> 90 jours à la demande de l'élève",
+   "v02 : carrés unis sur les étiquettes remplacés par l'étiquette retournée en miroir haut/bas (idée de l'élève, plus naturel) ; zones Vmake étendues aux étiquettes",
+   "v03 : toute la vidéo en miroir horizontal (demande de l'élève : logo net mais illisible) ; source et Vmake retournés, zones Vmake retournées, sous-titres non retournés ; blocs re-détectés et 2 blocs forcés (2762-2818, 3098-3120)"
+  ]
+ }
+}
