@@ -1,0 +1,347 @@
+{
+ "ref": "ST4",
+ "langue_source": "en",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "xiB7CDnrXntdaFGtozrh",
+  "repli_id": "",
+  "vitesse_max": 1.07
+ },
+ "lignes": [
+  {
+   "id": "L1",
+   "texte": "La plupart des maîtres ne découvrent jamais ce qui arrive peu à peu à une chatte dont on ignore le besoin de griffer. Et ça n'arrive pas d'un coup.",
+   "debut": 0.06,
+   "fin_fenetre": 7.23
+  },
+  {
+   "id": "L2",
+   "texte": "Après le premier mois, ses griffes poussent plus que la normale.",
+   "debut": 7.28,
+   "fin_fenetre": 10.87
+  },
+  {
+   "id": "L3",
+   "texte": "Elle essaie le griffoir en carton.",
+   "debut": 11.0,
+   "fin_fenetre": 12.55
+  },
+  {
+   "id": "L4",
+   "texte": "Il s'effrite tout de suite.",
+   "debut": 12.76,
+   "fin_fenetre": 14.39
+  },
+  {
+   "id": "L5",
+   "texte": "Puis le sisal synthétique.",
+   "debut": 14.44,
+   "fin_fenetre": 15.99
+  },
+  {
+   "id": "L6",
+   "texte": "Il sent mauvais pour un nez 40 fois plus sensible que le tien, alors elle retourne au canapé.",
+   "debut": 16.04,
+   "fin_fenetre": 21.29
+  },
+  {
+   "id": "L8",
+   "texte": "La seule surface qui s'en approche.",
+   "debut": 21.34,
+   "fin_fenetre": 23.69
+  },
+  {
+   "id": "L9",
+   "texte": "À deux mois, ses griffes s'accrochent au tapis quand elle marche, au plaid quand elle pétrit.",
+   "debut": 23.74,
+   "fin_fenetre": 28.45
+  },
+  {
+   "id": "L10",
+   "texte": "Sa maîtresse le remarque bien, mais elle se dit : les chats sont comme ça.",
+   "debut": 28.53,
+   "fin_fenetre": 32.41
+  },
+  {
+   "id": "L11",
+   "texte": "Le canapé empire.",
+   "debut": 32.46,
+   "fin_fenetre": 33.77
+  },
+  {
+   "id": "L12",
+   "texte": "Elle achète un autre griffoir synthétique.",
+   "debut": 33.82,
+   "fin_fenetre": 35.99
+  },
+  {
+   "id": "L13",
+   "texte": "Rien ne change.",
+   "debut": 36.2,
+   "fin_fenetre": 37.09
+  },
+  {
+   "id": "L14",
+   "texte": "À trois mois, ses griffes sont courbées.",
+   "debut": 37.36,
+   "fin_fenetre": 39.41
+  },
+  {
+   "id": "L15",
+   "texte": "À chaque pas, elles se plantent dans des surfaces qu'elles ne devraient pas toucher.",
+   "debut": 39.59,
+   "fin_fenetre": 43.23
+  },
+  {
+   "id": "L16",
+   "texte": "La gêne ne s'arrête jamais vraiment.",
+   "debut": 43.44,
+   "fin_fenetre": 45.23
+  },
+  {
+   "id": "L17",
+   "texte": "Elle retire ses pattes chaque fois que sa maîtresse essaie de les toucher.",
+   "debut": 45.4,
+   "fin_fenetre": 48.73
+  },
+  {
+   "id": "L18",
+   "texte": "Elle dit : caractère.",
+   "debut": 48.99,
+   "fin_fenetre": 50.25
+  },
+  {
+   "id": "L19",
+   "texte": "Pas du caractère.",
+   "debut": 50.44,
+   "fin_fenetre": 51.73
+  },
+  {
+   "id": "L20",
+   "texte": "C'est de la douleur, et elle la vit seule, chaque jour.",
+   "debut": 51.78,
+   "fin_fenetre": 55.29
+  },
+  {
+   "id": "L21",
+   "texte": "Au quatrième mois, elle s'est mise à mordre et tirer ses propres griffes.",
+   "debut": 55.34,
+   "fin_fenetre": 59.15
+  },
+  {
+   "id": "L22",
+   "texte": "Elle pense à sa toilette.",
+   "debut": 59.53,
+   "fin_fenetre": 60.57
+  },
+  {
+   "id": "L23",
+   "texte": "Pas du tout.",
+   "debut": 61.02,
+   "fin_fenetre": 61.77
+  },
+  {
+   "id": "L24",
+   "texte": "C'est son corps qui essaie de réparer ce que rien, dans cette maison, ne répare pour elle.",
+   "debut": 61.82,
+   "fin_fenetre": 66.41
+  },
+  {
+   "id": "L25",
+   "texte": "Ça ne devrait pas arriver.",
+   "debut": 66.61,
+   "fin_fenetre": 68.06
+  },
+  {
+   "id": "L26",
+   "texte": "Ce dont son corps a besoin est simple.",
+   "debut": 68.11,
+   "fin_fenetre": 70.24
+  },
+  {
+   "id": "L27",
+   "texte": "Une surface vraiment résistante.",
+   "debut": 70.34,
+   "fin_fenetre": 72.26
+  },
+  {
+   "id": "L28",
+   "texte": "Où ses griffes peuvent s'enfoncer et tirer.",
+   "debut": 72.44,
+   "fin_fenetre": 74.9
+  },
+  {
+   "id": "L29",
+   "texte": "Et une matière que son instinct reconnaît déjà.",
+   "debut": 74.95,
+   "fin_fenetre": 77.76
+  },
+  {
+   "id": "L30",
+   "texte": "Qui garde son odeur pour toujours.",
+   "debut": 77.81,
+   "fin_fenetre": 79.68
+  },
+  {
+   "id": "L31",
+   "texte": "Son cerveau se dit enfin : à moi.",
+   "debut": 79.73,
+   "fin_fenetre": 82.1
+  },
+  {
+   "id": "L32",
+   "texte": "Je suis bien.",
+   "debut": 82.15,
+   "fin_fenetre": 82.96
+  },
+  {
+   "id": "L33",
+   "texte": "Et elle y revient.",
+   "debut": 83.12,
+   "fin_fenetre": 84.24
+  },
+  {
+   "id": "L34",
+   "texte": "Chaque jour.",
+   "debut": 84.29,
+   "fin_fenetre": 85.56
+  },
+  {
+   "id": "L35",
+   "texte": "En limant ses griffes, comme prévu par la nature.",
+   "debut": 85.61,
+   "fin_fenetre": 88.48
+  },
+  {
+   "id": "L36",
+   "texte": "Aucune matière synthétique n'y arrive.",
+   "debut": 88.53,
+   "fin_fenetre": 90.7
+  },
+  {
+   "id": "L37",
+   "texte": "On a tout testé.",
+   "debut": 90.75,
+   "fin_fenetre": 92.0
+  },
+  {
+   "id": "L38",
+   "texte": "Une seule matière a passé tous les tests de leur instinct.",
+   "debut": 92.05,
+   "fin_fenetre": 95.42
+  },
+  {
+   "id": "L39",
+   "texte": "Alors on a créé le panier Nidélia, en corde naturelle.",
+   "debut": 95.47,
+   "fin_fenetre": 98.62
+  },
+  {
+   "id": "L40",
+   "texte": "Même texture que l'écorce d'un arbre, la surface que les chats griffent depuis des milliers d'années.",
+   "debut": 98.69,
+   "fin_fenetre": 103.94
+  },
+  {
+   "id": "L41",
+   "texte": "Dès qu'elle y plante ses griffes et qu'elle tire, cette résistance les lime tout naturellement.",
+   "debut": 103.99,
+   "fin_fenetre": 109.14
+  },
+  {
+   "id": "L42",
+   "texte": "Et comme la corde naturelle absorbe ses phéromones pour toujours, son odeur s'accumule à chaque passage.",
+   "debut": 109.19,
+   "fin_fenetre": 114.76
+  },
+  {
+   "id": "L43a",
+   "texte": "Une semaine après, ça sent comme elle.",
+   "debut": 114.81,
+   "fin_fenetre": 116.94
+  },
+  {
+   "id": "L43b",
+   "texte": "Après un mois, son cerveau se dit : c'est à moi.",
+   "debut": 116.99,
+   "fin_fenetre": 119.58
+  },
+  {
+   "id": "L44",
+   "texte": "C'est pour ça qu'elle y revient chaque jour, en limant ses griffes naturellement, comme la nature l'a prévu.",
+   "debut": 119.64,
+   "fin_fenetre": 125.48
+  },
+  {
+   "id": "L45",
+   "texte": "Essaie-le 90 jours sans risque.",
+   "debut": 125.53,
+   "fin_fenetre": 127.68
+  },
+  {
+   "id": "L46",
+   "texte": "Si ton chat ne l'utilise pas, tu ne paies pas.",
+   "debut": 127.73,
+   "fin_fenetre": 130.06
+  },
+  {
+   "id": "L47",
+   "texte": "Et là, les nouveaux clients ont 50 % sur leur commande.",
+   "debut": 130.11,
+   "fin_fenetre": 134.44
+  }
+ ],
+ "mix": {
+  "fond": "musique"
+ },
+ "rendu": {
+  "zones_vmake": "auto",
+  "sous_titres": {
+   "mode": "mots",
+   "max_mots": 2,
+   "max_car": 14,
+   "fusion_min": 0.3,
+   "majuscules": true,
+   "y": 872,
+   "taille": 34,
+   "graisse": 800,
+   "couleur": [
+    255,
+    255,
+    255
+   ],
+   "couleur_ombre": [
+    0,
+    0,
+    0
+   ],
+   "decalage": [
+    1,
+    2
+   ],
+   "trait": 4,
+   "max_car_ligne": 16
+  },
+  "patches": []
+ },
+ "marque": "Wunela",
+ "produit": "Nidélia",
+ "site": "https://wunela.com/",
+ "offre": "celle de la source",
+ "controle": {
+  "sans_voix": []
+ },
+ "bilan": {
+  "duree_source_s": 134.5,
+  "vmake_s": 134.5,
+  "caracteres_elevenlabs": 3518,
+  "replicate_appels": 1,
+  "reprises": 3,
+  "problemes": [
+   "Vmake : crédits épuisés à la 1re tentative",
+   "Mêmes étiquettes que ST3 décalées de 99 images",
+   "Erreur de ma part : mauvaises phrases rallongées puis corrigées (134 car. perdus)",
+   "v02 : carrés unis sur les étiquettes remplacés par l'étiquette retournée en miroir haut/bas (idée de l'élève, plus naturel) ; zones Vmake étendues aux étiquettes"
+  ]
+ }
+}
