@@ -1,0 +1,2031 @@
+{
+ "ref": "ST6",
+ "langue_source": "en",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "DwiHqs4e6MUHReUGRPMJ",
+  "repli_id": "",
+  "vitesse_max": 1.07
+ },
+ "lignes": [
+  {
+   "id": "L1",
+   "texte": "Un chat d'intérieur doit se faire couper les griffes toutes les deux semaines, à vie.",
+   "debut": 0.06,
+   "fin_fenetre": 3.89
+  },
+  {
+   "id": "L2",
+   "texte": "Beaucoup l'acceptent.",
+   "debut": 4.56,
+   "fin_fenetre": 5.27
+  },
+  {
+   "id": "L3",
+   "texte": "Ceux qui demandent pourquoi n'y reviennent jamais.",
+   "debut": 6.06,
+   "fin_fenetre": 8.13
+  },
+  {
+   "id": "L4",
+   "texte": "Dès ses premières griffes, elle cherchait quelque chose.",
+   "debut": 8.39,
+   "fin_fenetre": 12.01
+  },
+  {
+   "id": "L5",
+   "texte": "Pas ton canapé.",
+   "debut": 12.06,
+   "fin_fenetre": 12.99
+  },
+  {
+   "id": "L6",
+   "texte": "Ni le griffoir en carton posé dans le coin.",
+   "debut": 13.32,
+   "fin_fenetre": 16.07
+  },
+  {
+   "id": "L7",
+   "texte": "Un truc gravé dans son instinct avant sa naissance.",
+   "debut": 16.12,
+   "fin_fenetre": 19.25
+  },
+  {
+   "id": "L8",
+   "texte": "La résistance de l'écorce.",
+   "debut": 19.3,
+   "fin_fenetre": 21.07
+  },
+  {
+   "id": "L9",
+   "texte": "Pendant des millénaires, elle était partout.",
+   "debut": 21.12,
+   "fin_fenetre": 23.75
+  },
+  {
+   "id": "L10",
+   "texte": "Puis elle est entrée chez toi, et l'écorce a disparu.",
+   "debut": 23.8,
+   "fin_fenetre": 26.67
+  },
+  {
+   "id": "L11",
+   "texte": "Alors elle a cherché.",
+   "debut": 26.72,
+   "fin_fenetre": 27.79
+  },
+  {
+   "id": "L12",
+   "texte": "Ton canapé, le plus proche qu'elle ait trouvé.",
+   "debut": 28.06,
+   "fin_fenetre": 30.83
+  },
+  {
+   "id": "L13",
+   "texte": "Tu as pris du carton.",
+   "debut": 30.88,
+   "fin_fenetre": 31.93
+  },
+  {
+   "id": "L14",
+   "texte": "En miettes.",
+   "debut": 32.22,
+   "fin_fenetre": 32.73
+  },
+  {
+   "id": "L15",
+   "texte": "Du sisal.",
+   "debut": 33.12,
+   "fin_fenetre": 33.69
+  },
+  {
+   "id": "L16",
+   "texte": "Son nez, 40 fois plus fin que le tien, a dit : non.",
+   "debut": 34.27,
+   "fin_fenetre": 38.11
+  },
+  {
+   "id": "L17",
+   "texte": "Ça sent le labo.",
+   "debut": 38.16,
+   "fin_fenetre": 39.55
+  },
+  {
+   "id": "L18",
+   "texte": "Pas difficile.",
+   "debut": 39.6,
+   "fin_fenetre": 40.75
+  },
+  {
+   "id": "L19",
+   "texte": "Elle cherchait.",
+   "debut": 40.8,
+   "fin_fenetre": 41.87
+  },
+  {
+   "id": "L20",
+   "texte": "Et ses griffes poussaient.",
+   "debut": 41.92,
+   "fin_fenetre": 43.61
+  },
+  {
+   "id": "L21",
+   "texte": "Plus courbées chaque semaine, jusqu'à les mordiller.",
+   "debut": 43.66,
+   "fin_fenetre": 47.03
+  },
+  {
+   "id": "L22",
+   "texte": "Peu de maîtres demandent pourquoi.",
+   "debut": 47.08,
+   "fin_fenetre": 48.99
+  },
+  {
+   "id": "L23",
+   "texte": "Toi, si.",
+   "debut": 49.13,
+   "fin_fenetre": 49.59
+  },
+  {
+   "id": "L24",
+   "texte": "La réponse :",
+   "debut": 50.44,
+   "fin_fenetre": 50.61
+  },
+  {
+   "id": "L25",
+   "texte": "ce que ses griffes cherchaient, c'est de la corde.",
+   "debut": 51.41,
+   "fin_fenetre": 53.69
+  },
+  {
+   "id": "L26",
+   "texte": "La corde naturelle résiste comme l'écorce.",
+   "debut": 54.01,
+   "fin_fenetre": 56.21
+  },
+  {
+   "id": "L27",
+   "texte": "Quand elle plante ses griffes et qu'elle tire, la résistance retire la couche morte.",
+   "debut": 56.94,
+   "fin_fenetre": 61.15
+  },
+  {
+   "id": "L28",
+   "texte": "La griffe se lime.",
+   "debut": 61.2,
+   "fin_fenetre": 62.89
+  },
+  {
+   "id": "L29",
+   "texte": "Chaque coup de griffe fait ce que la nature a prévu.",
+   "debut": 62.94,
+   "fin_fenetre": 65.79
+  },
+  {
+   "id": "L30",
+   "texte": "Et la corde fait plus.",
+   "debut": 65.84,
+   "fin_fenetre": 67.29
+  },
+  {
+   "id": "L31",
+   "texte": "La plupart des surfaces ne gardent pas ses phéromones.",
+   "debut": 67.42,
+   "fin_fenetre": 71.07
+  },
+  {
+   "id": "L32",
+   "texte": "Son odeur part en quelques heures.",
+   "debut": 71.12,
+   "fin_fenetre": 72.75
+  },
+  {
+   "id": "L33",
+   "texte": "La corde, si.",
+   "debut": 73.17,
+   "fin_fenetre": 73.81
+  },
+  {
+   "id": "L34",
+   "texte": "Vite, elle sent comme elle.",
+   "debut": 74.43,
+   "fin_fenetre": 76.09
+  },
+  {
+   "id": "L35",
+   "texte": "En une semaine, son cerveau dit : à moi.",
+   "debut": 76.14,
+   "fin_fenetre": 78.49
+  },
+  {
+   "id": "L36",
+   "texte": "En sécurité.",
+   "debut": 78.54,
+   "fin_fenetre": 79.35
+  },
+  {
+   "id": "L37",
+   "texte": "Fini la recherche.",
+   "debut": 79.62,
+   "fin_fenetre": 80.41
+  },
+  {
+   "id": "L38",
+   "texte": "Plus de coupe-griffes.",
+   "debut": 80.88,
+   "fin_fenetre": 81.31
+  },
+  {
+   "id": "L39",
+   "texte": "Plus de lutte.",
+   "debut": 82.19,
+   "fin_fenetre": 82.17
+  },
+  {
+   "id": "L40",
+   "texte": "Plus de cachette sous le lit.",
+   "debut": 83.09,
+   "fin_fenetre": 84.39
+  },
+  {
+   "id": "L41",
+   "texte": "Voilà le panier Nidélia.",
+   "debut": 84.72,
+   "fin_fenetre": 85.65
+  },
+  {
+   "id": "L42",
+   "texte": "On a renoncé au synthétique, même moins cher, à cause des chats.",
+   "debut": 86.16,
+   "fin_fenetre": 90.17
+  },
+  {
+   "id": "L43",
+   "texte": "Ils l'ont tous rejeté, alors on a pris la corde naturelle, sur leur conseil.",
+   "debut": 90.22,
+   "fin_fenetre": 95.05
+  },
+  {
+   "id": "L44",
+   "texte": "Le maître qui demande pourquoi, c'est justement celui qu'un chat a la chance d'avoir.",
+   "debut": 95.1,
+   "fin_fenetre": 100.31
+  },
+  {
+   "id": "L45",
+   "texte": "90 jours sans risque.",
+   "debut": 100.36,
+   "fin_fenetre": 101.87
+  },
+  {
+   "id": "L46",
+   "texte": "Si elle ne l'adopte pas, tu ne paies pas.",
+   "debut": 102.04,
+   "fin_fenetre": 104.11
+  },
+  {
+   "id": "L47",
+   "texte": "Là, moins 50 % pour les nouveaux clients.",
+   "debut": 104.37,
+   "fin_fenetre": 107.21
+  }
+ ],
+ "mix": {
+  "fond": "musique"
+ },
+ "rendu": {
+  "blocs": "auto",
+  "blocs_auto": {
+   "forcer": [
+    {
+     "images": [
+      2762,
+      2778
+     ],
+     "rect": [
+      205,
+      883,
+      515,
+      1007
+     ],
+     "lignes": 2
+    }
+   ]
+  },
+  "patches": [
+   {
+    "images": [
+     2530,
+     2530
+    ],
+    "rect": [
+     266,
+     846,
+     483,
+     914
+    ],
+    "remplir": [
+     179,
+     99,
+     54
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2531,
+     2531
+    ],
+    "rect": [
+     236,
+     826,
+     512,
+     936
+    ],
+    "remplir": [
+     184,
+     105,
+     57
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2532,
+     2532
+    ],
+    "rect": [
+     220,
+     820,
+     541,
+     965
+    ],
+    "remplir": [
+     183,
+     104,
+     56
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2533,
+     2533
+    ],
+    "rect": [
+     220,
+     818,
+     570,
+     987
+    ],
+    "remplir": [
+     183,
+     103,
+     57
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2534,
+     2534
+    ],
+    "rect": [
+     221,
+     814,
+     599,
+     987
+    ],
+    "remplir": [
+     183,
+     103,
+     56
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2535,
+     2535
+    ],
+    "rect": [
+     221,
+     814,
+     613,
+     988
+    ],
+    "remplir": [
+     183,
+     103,
+     56
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2536,
+     2536
+    ],
+    "rect": [
+     220,
+     814,
+     613,
+     988
+    ],
+    "remplir": [
+     183,
+     103,
+     55
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2537,
+     2537
+    ],
+    "rect": [
+     220,
+     815,
+     613,
+     989
+    ],
+    "remplir": [
+     183,
+     103,
+     56
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2538,
+     2538
+    ],
+    "rect": [
+     219,
+     816,
+     611,
+     989
+    ],
+    "remplir": [
+     183,
+     103,
+     56
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2539,
+     2539
+    ],
+    "rect": [
+     216,
+     816,
+     609,
+     989
+    ],
+    "remplir": [
+     183,
+     103,
+     56
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2540,
+     2540
+    ],
+    "rect": [
+     215,
+     814,
+     607,
+     988
+    ],
+    "remplir": [
+     183,
+     103,
+     56
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2541,
+     2541
+    ],
+    "rect": [
+     215,
+     814,
+     607,
+     988
+    ],
+    "remplir": [
+     183,
+     103,
+     56
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2542,
+     2542
+    ],
+    "rect": [
+     214,
+     814,
+     605,
+     988
+    ],
+    "remplir": [
+     183,
+     103,
+     56
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2543,
+     2543
+    ],
+    "rect": [
+     213,
+     812,
+     603,
+     988
+    ],
+    "remplir": [
+     183,
+     103,
+     56
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2544,
+     2544
+    ],
+    "rect": [
+     214,
+     802,
+     603,
+     983
+    ],
+    "remplir": [
+     179,
+     100,
+     54
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2545,
+     2545
+    ],
+    "rect": [
+     215,
+     786,
+     599,
+     973
+    ],
+    "remplir": [
+     160,
+     87,
+     50
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2546,
+     2546
+    ],
+    "rect": [
+     215,
+     766,
+     597,
+     964
+    ],
+    "remplir": [
+     154,
+     82,
+     46
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2547,
+     2547
+    ],
+    "rect": [
+     215,
+     746,
+     591,
+     955
+    ],
+    "remplir": [
+     151,
+     82,
+     46
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2548,
+     2548
+    ],
+    "rect": [
+     218,
+     727,
+     589,
+     947
+    ],
+    "remplir": [
+     147,
+     79,
+     43
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2549,
+     2549
+    ],
+    "rect": [
+     224,
+     710,
+     591,
+     941
+    ],
+    "remplir": [
+     146,
+     77,
+     42
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2550,
+     2550
+    ],
+    "rect": [
+     229,
+     691,
+     588,
+     934
+    ],
+    "remplir": [
+     144,
+     77,
+     42
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2551,
+     2551
+    ],
+    "rect": [
+     229,
+     691,
+     588,
+     934
+    ],
+    "remplir": [
+     144,
+     77,
+     42
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2552,
+     2552
+    ],
+    "rect": [
+     235,
+     672,
+     589,
+     925
+    ],
+    "remplir": [
+     145,
+     76,
+     40
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2553,
+     2553
+    ],
+    "rect": [
+     242,
+     655,
+     591,
+     918
+    ],
+    "remplir": [
+     147,
+     75,
+     36
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2554,
+     2554
+    ],
+    "rect": [
+     248,
+     639,
+     591,
+     912
+    ],
+    "remplir": [
+     147,
+     76,
+     35
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2555,
+     2555
+    ],
+    "rect": [
+     252,
+     624,
+     591,
+     904
+    ],
+    "remplir": [
+     150,
+     79,
+     37
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2556,
+     2556
+    ],
+    "rect": [
+     256,
+     610,
+     591,
+     898
+    ],
+    "remplir": [
+     151,
+     80,
+     38
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2557,
+     2557
+    ],
+    "rect": [
+     260,
+     602,
+     589,
+     894
+    ],
+    "remplir": [
+     156,
+     82,
+     40
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2558,
+     2558
+    ],
+    "rect": [
+     264,
+     594,
+     589,
+     889
+    ],
+    "remplir": [
+     157,
+     84,
+     41
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2559,
+     2559
+    ],
+    "rect": [
+     266,
+     588,
+     589,
+     886
+    ],
+    "remplir": [
+     157,
+     84,
+     43
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2560,
+     2560
+    ],
+    "rect": [
+     266,
+     584,
+     587,
+     883
+    ],
+    "remplir": [
+     157,
+     85,
+     43
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2561,
+     2561
+    ],
+    "rect": [
+     266,
+     584,
+     587,
+     883
+    ],
+    "remplir": [
+     157,
+     85,
+     43
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2562,
+     2562
+    ],
+    "rect": [
+     268,
+     580,
+     585,
+     879
+    ],
+    "remplir": [
+     157,
+     85,
+     43
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2563,
+     2563
+    ],
+    "rect": [
+     268,
+     578,
+     583,
+     876
+    ],
+    "remplir": [
+     158,
+     85,
+     43
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2564,
+     2564
+    ],
+    "rect": [
+     270,
+     574,
+     582,
+     872
+    ],
+    "remplir": [
+     158,
+     84,
+     43
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2565,
+     2565
+    ],
+    "rect": [
+     272,
+     569,
+     581,
+     867
+    ],
+    "remplir": [
+     156,
+     83,
+     43
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2566,
+     2566
+    ],
+    "rect": [
+     272,
+     564,
+     581,
+     861
+    ],
+    "remplir": [
+     158,
+     84,
+     42
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2567,
+     2567
+    ],
+    "rect": [
+     272,
+     562,
+     579,
+     857
+    ],
+    "remplir": [
+     158,
+     84,
+     43
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2568,
+     2568
+    ],
+    "rect": [
+     272,
+     560,
+     577,
+     853
+    ],
+    "remplir": [
+     158,
+     84,
+     44
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2569,
+     2569
+    ],
+    "rect": [
+     274,
+     558,
+     577,
+     850
+    ],
+    "remplir": [
+     158,
+     84,
+     44
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2570,
+     2570
+    ],
+    "rect": [
+     274,
+     558,
+     577,
+     847
+    ],
+    "remplir": [
+     158,
+     85,
+     43
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2571,
+     2571
+    ],
+    "rect": [
+     274,
+     558,
+     577,
+     847
+    ],
+    "remplir": [
+     158,
+     85,
+     43
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2572,
+     2572
+    ],
+    "rect": [
+     276,
+     558,
+     577,
+     845
+    ],
+    "remplir": [
+     159,
+     85,
+     44
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2573,
+     2573
+    ],
+    "rect": [
+     278,
+     558,
+     577,
+     845
+    ],
+    "remplir": [
+     159,
+     86,
+     44
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     2574,
+     2574
+    ],
+    "rect": [
+     280,
+     558,
+     579,
+     844
+    ],
+    "remplir": [
+     158,
+     85,
+     43
+    ],
+    "rayon": 10
+   },
+   {
+    "images": [
+     3004,
+     3004
+    ],
+    "rect": [
+     444,
+     786,
+     595,
+     877
+    ],
+    "remplir": [
+     100,
+     56,
+     32
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3005,
+     3005
+    ],
+    "rect": [
+     438,
+     786,
+     589,
+     877
+    ],
+    "remplir": [
+     101,
+     56,
+     34
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3006,
+     3006
+    ],
+    "rect": [
+     432,
+     784,
+     583,
+     875
+    ],
+    "remplir": [
+     101,
+     56,
+     33
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3007,
+     3007
+    ],
+    "rect": [
+     426,
+     782,
+     577,
+     873
+    ],
+    "remplir": [
+     101,
+     56,
+     33
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3008,
+     3008
+    ],
+    "rect": [
+     420,
+     782,
+     571,
+     873
+    ],
+    "remplir": [
+     101,
+     56,
+     32
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3009,
+     3009
+    ],
+    "rect": [
+     414,
+     780,
+     565,
+     871
+    ],
+    "remplir": [
+     101,
+     57,
+     34
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3010,
+     3010
+    ],
+    "rect": [
+     408,
+     778,
+     559,
+     869
+    ],
+    "remplir": [
+     101,
+     56,
+     33
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3011,
+     3011
+    ],
+    "rect": [
+     402,
+     778,
+     553,
+     869
+    ],
+    "remplir": [
+     102,
+     57,
+     33
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3012,
+     3012
+    ],
+    "rect": [
+     396,
+     776,
+     547,
+     867
+    ],
+    "remplir": [
+     101,
+     56,
+     32
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3013,
+     3013
+    ],
+    "rect": [
+     388,
+     774,
+     539,
+     865
+    ],
+    "remplir": [
+     102,
+     57,
+     33
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3014,
+     3014
+    ],
+    "rect": [
+     382,
+     772,
+     533,
+     863
+    ],
+    "remplir": [
+     101,
+     57,
+     33
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3015,
+     3015
+    ],
+    "rect": [
+     376,
+     772,
+     527,
+     863
+    ],
+    "remplir": [
+     102,
+     57,
+     34
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3016,
+     3016
+    ],
+    "rect": [
+     368,
+     770,
+     519,
+     861
+    ],
+    "remplir": [
+     101,
+     57,
+     32
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3017,
+     3017
+    ],
+    "rect": [
+     362,
+     768,
+     513,
+     859
+    ],
+    "remplir": [
+     102,
+     57,
+     33
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3018,
+     3018
+    ],
+    "rect": [
+     354,
+     766,
+     505,
+     857
+    ],
+    "remplir": [
+     101,
+     57,
+     33
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3019,
+     3019
+    ],
+    "rect": [
+     348,
+     764,
+     499,
+     855
+    ],
+    "remplir": [
+     102,
+     57,
+     33
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3020,
+     3020
+    ],
+    "rect": [
+     342,
+     762,
+     493,
+     853
+    ],
+    "remplir": [
+     101,
+     57,
+     33
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3021,
+     3021
+    ],
+    "rect": [
+     336,
+     760,
+     487,
+     851
+    ],
+    "remplir": [
+     102,
+     57,
+     33
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3022,
+     3022
+    ],
+    "rect": [
+     328,
+     758,
+     479,
+     849
+    ],
+    "remplir": [
+     102,
+     57,
+     33
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3023,
+     3023
+    ],
+    "rect": [
+     320,
+     756,
+     471,
+     847
+    ],
+    "remplir": [
+     102,
+     57,
+     33
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3024,
+     3024
+    ],
+    "rect": [
+     314,
+     756,
+     465,
+     847
+    ],
+    "remplir": [
+     102,
+     57,
+     32
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3025,
+     3025
+    ],
+    "rect": [
+     306,
+     754,
+     457,
+     845
+    ],
+    "remplir": [
+     102,
+     57,
+     33
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3026,
+     3026
+    ],
+    "rect": [
+     298,
+     754,
+     449,
+     845
+    ],
+    "remplir": [
+     102,
+     57,
+     33
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3027,
+     3027
+    ],
+    "rect": [
+     290,
+     752,
+     441,
+     843
+    ],
+    "remplir": [
+     102,
+     57,
+     34
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3028,
+     3028
+    ],
+    "rect": [
+     282,
+     752,
+     433,
+     843
+    ],
+    "remplir": [
+     102,
+     57,
+     32
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3029,
+     3029
+    ],
+    "rect": [
+     276,
+     752,
+     427,
+     843
+    ],
+    "remplir": [
+     102,
+     57,
+     33
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3030,
+     3030
+    ],
+    "rect": [
+     268,
+     750,
+     419,
+     841
+    ],
+    "remplir": [
+     102,
+     57,
+     33
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3031,
+     3031
+    ],
+    "rect": [
+     260,
+     750,
+     411,
+     841
+    ],
+    "remplir": [
+     103,
+     57,
+     33
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3032,
+     3032
+    ],
+    "rect": [
+     252,
+     750,
+     403,
+     841
+    ],
+    "remplir": [
+     102,
+     57,
+     32
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3033,
+     3033
+    ],
+    "rect": [
+     244,
+     748,
+     395,
+     839
+    ],
+    "remplir": [
+     103,
+     58,
+     34
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3034,
+     3034
+    ],
+    "rect": [
+     236,
+     748,
+     387,
+     839
+    ],
+    "remplir": [
+     103,
+     58,
+     33
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3035,
+     3035
+    ],
+    "rect": [
+     228,
+     746,
+     379,
+     837
+    ],
+    "remplir": [
+     103,
+     58,
+     34
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3036,
+     3036
+    ],
+    "rect": [
+     222,
+     746,
+     373,
+     837
+    ],
+    "remplir": [
+     103,
+     58,
+     33
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3037,
+     3037
+    ],
+    "rect": [
+     214,
+     744,
+     365,
+     835
+    ],
+    "remplir": [
+     104,
+     58,
+     34
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3038,
+     3038
+    ],
+    "rect": [
+     206,
+     742,
+     357,
+     833
+    ],
+    "remplir": [
+     104,
+     58,
+     34
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3039,
+     3039
+    ],
+    "rect": [
+     200,
+     742,
+     351,
+     833
+    ],
+    "remplir": [
+     104,
+     58,
+     35
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3040,
+     3040
+    ],
+    "rect": [
+     192,
+     740,
+     343,
+     831
+    ],
+    "remplir": [
+     103,
+     58,
+     34
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3041,
+     3041
+    ],
+    "rect": [
+     184,
+     740,
+     335,
+     831
+    ],
+    "remplir": [
+     104,
+     58,
+     35
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3042,
+     3042
+    ],
+    "rect": [
+     176,
+     740,
+     327,
+     831
+    ],
+    "remplir": [
+     104,
+     58,
+     34
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3043,
+     3043
+    ],
+    "rect": [
+     168,
+     738,
+     319,
+     829
+    ],
+    "remplir": [
+     104,
+     58,
+     35
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3044,
+     3044
+    ],
+    "rect": [
+     160,
+     738,
+     311,
+     829
+    ],
+    "remplir": [
+     104,
+     58,
+     34
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3045,
+     3045
+    ],
+    "rect": [
+     154,
+     738,
+     305,
+     829
+    ],
+    "remplir": [
+     105,
+     59,
+     35
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3046,
+     3046
+    ],
+    "rect": [
+     148,
+     738,
+     299,
+     829
+    ],
+    "remplir": [
+     104,
+     58,
+     35
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3047,
+     3047
+    ],
+    "rect": [
+     142,
+     736,
+     293,
+     827
+    ],
+    "remplir": [
+     105,
+     59,
+     36
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3048,
+     3048
+    ],
+    "rect": [
+     138,
+     736,
+     289,
+     827
+    ],
+    "remplir": [
+     104,
+     59,
+     34
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3049,
+     3049
+    ],
+    "rect": [
+     134,
+     736,
+     285,
+     827
+    ],
+    "remplir": [
+     105,
+     59,
+     36
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3050,
+     3050
+    ],
+    "rect": [
+     128,
+     736,
+     279,
+     827
+    ],
+    "remplir": [
+     104,
+     59,
+     35
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3051,
+     3051
+    ],
+    "rect": [
+     122,
+     736,
+     273,
+     827
+    ],
+    "remplir": [
+     105,
+     59,
+     36
+    ],
+    "rayon": 12
+   },
+   {
+    "images": [
+     3052,
+     3052
+    ],
+    "rect": [
+     116,
+     736,
+     267,
+     827
+    ],
+    "remplir": [
+     104,
+     59,
+     35
+    ],
+    "rayon": 12
+   }
+  ]
+ },
+ "marque": "Wunela",
+ "produit": "Nidélia",
+ "site": "https://wunela.com/",
+ "offre": "celle de la source",
+ "controle": {
+  "sans_voix": []
+ },
+ "bilan": {
+  "duree_source_s": 107.3,
+  "vmake_s": 0,
+  "caracteres_elevenlabs": 4077,
+  "replicate_appels": 1,
+  "reprises": 3,
+  "problemes": [
+   "Voix lente : 46 phrases raccourcies puis 2 rallongées",
+   "Bloc forcé 2762-2778 (sous-titre anglais non détecté par blocs.py)",
+   "Grande étiquette STIMULI CAT 2530-2574 et petite 3004-3052 recouvertes",
+   "Offre 45 jours -> 90 jours à la demande de l'élève"
+  ]
+ }
+}
