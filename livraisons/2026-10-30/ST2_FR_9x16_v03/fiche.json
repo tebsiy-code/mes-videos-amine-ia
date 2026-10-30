@@ -1,0 +1,217 @@
+{
+ "ref": "ST2",
+ "langue_source": "en",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "ccVEDf8hUJH3rR3eK1XU",
+  "repli_id": "",
+  "vitesse_max": 1.07
+ },
+ "lignes": [
+  {
+   "id": "L1",
+   "texte": "L'astuce pour qu'il arrête de griffer tes meubles, pour toujours.",
+   "debut": 0.06,
+   "fin_fenetre": 3.65
+  },
+  {
+   "id": "L2",
+   "texte": "Spoiler : ce n'est pas ton chat.",
+   "debut": 3.7,
+   "fin_fenetre": 5.77
+  },
+  {
+   "id": "L3",
+   "texte": "C'est ta façon de réagir.",
+   "debut": 6.08,
+   "fin_fenetre": 7.21
+  },
+  {
+   "id": "L4",
+   "texte": "Je t'explique.",
+   "debut": 7.66,
+   "fin_fenetre": 8.03
+  },
+  {
+   "id": "L5",
+   "texte": "Chaque fois que Nala griffait mon canapé, ça me rendait folle.",
+   "debut": 8.56,
+   "fin_fenetre": 11.27
+  },
+  {
+   "id": "L6",
+   "texte": "Surtout quand elle me fixait dans les yeux en abîmant mes meubles.",
+   "debut": 11.38,
+   "fin_fenetre": 14.59
+  },
+  {
+   "id": "L7",
+   "texte": "Je criais, je l'arrosais, nouveau griffoir.",
+   "debut": 14.97,
+   "fin_fenetre": 17.07
+  },
+  {
+   "id": "L8",
+   "texte": "Elle l'ignorait et filait au canapé.",
+   "debut": 17.57,
+   "fin_fenetre": 19.11
+  },
+  {
+   "id": "L9",
+   "texte": "Franchement, c'était bête de vouloir contrer son instinct.",
+   "debut": 19.72,
+   "fin_fenetre": 22.67
+  },
+  {
+   "id": "L10",
+   "texte": "Elle doit entretenir ses griffes, sinon elles poussent trop.",
+   "debut": 22.72,
+   "fin_fenetre": 25.59
+  },
+  {
+   "id": "L11",
+   "texte": "Alors j'ai arrêté de demander comment l'empêcher de griffer,",
+   "debut": 25.94,
+   "fin_fenetre": 28.79
+  },
+  {
+   "id": "L12",
+   "texte": "et j'ai demandé pourquoi elle ignore tous les griffoirs, mais jamais mon canapé.",
+   "debut": 28.95,
+   "fin_fenetre": 33.29
+  },
+  {
+   "id": "L13",
+   "texte": "On a étudié les chats pendant un an.",
+   "debut": 33.34,
+   "fin_fenetre": 35.65
+  },
+  {
+   "id": "L14",
+   "texte": "Ils choisissent ton canapé pour sa texture et sa résistance, que leur instinct reconnaît.",
+   "debut": 35.7,
+   "fin_fenetre": 40.33
+  },
+  {
+   "id": "L15",
+   "texte": "Le carton s'effrite.",
+   "debut": 40.38,
+   "fin_fenetre": 41.81
+  },
+  {
+   "id": "L16",
+   "texte": "Le sisal synthétique sent mauvais pour leur nez.",
+   "debut": 41.86,
+   "fin_fenetre": 44.31
+  },
+  {
+   "id": "L17",
+   "texte": "Alors ils vont sur la seule surface qui leur convient : ton canapé.",
+   "debut": 44.36,
+   "fin_fenetre": 47.81
+  },
+  {
+   "id": "L18",
+   "texte": "D'où le panier Nidélia, tissé main en corde naturelle, avec la résistance de l'écorce que les chats griffent depuis toujours.",
+   "debut": 47.86,
+   "fin_fenetre": 55.09
+  },
+  {
+   "id": "L19",
+   "texte": "Plus naturel que ton canapé.",
+   "debut": 55.14,
+   "fin_fenetre": 56.91
+  },
+  {
+   "id": "L20",
+   "texte": "Et la corde garde son odeur.",
+   "debut": 57.0,
+   "fin_fenetre": 58.65
+  },
+  {
+   "id": "L21",
+   "texte": "En quelques semaines, il devient le sien.",
+   "debut": 58.7,
+   "fin_fenetre": 61.39
+  },
+  {
+   "id": "L22",
+   "texte": "Elle laisse tes meubles, pas parce que tu l'en empêches, mais parce qu'elle a trouvé bien mieux pour son instinct.",
+   "debut": 61.44,
+   "fin_fenetre": 66.67
+  },
+  {
+   "id": "L23",
+   "texte": "Là, c'est moins 50 %, garanti 90 jours.",
+   "debut": 66.72,
+   "fin_fenetre": 70.51
+  },
+  {
+   "id": "L24",
+   "texte": "S'il ne l'adopte pas, remboursé.",
+   "debut": 70.56,
+   "fin_fenetre": 72.39
+  },
+  {
+   "id": "L25",
+   "texte": "Ton chat et tes meubles te remercient.",
+   "debut": 72.47,
+   "fin_fenetre": 74.37
+  }
+ ],
+ "mix": {
+  "fond": "musique"
+ },
+ "rendu": {
+  "zones_vmake": "auto",
+  "sous_titres": {
+   "mode": "mots",
+   "max_mots": 2,
+   "max_car": 14,
+   "fusion_min": 0.3,
+   "majuscules": true,
+   "y": 912,
+   "taille": 46,
+   "graisse": 800,
+   "couleur": [
+    255,
+    255,
+    255
+   ],
+   "couleur_ombre": [
+    0,
+    0,
+    0
+   ],
+   "decalage": [
+    2,
+    3
+   ],
+   "trait": 5,
+   "max_car_ligne": 16
+  },
+  "patches": []
+ },
+ "marque": "Wunela",
+ "produit": "Nidélia",
+ "site": "https://wunela.com/",
+ "offre": "celle de la source",
+ "controle": {
+  "sans_voix": []
+ },
+ "notes": "Karaoké 1 mot, majuscules blanches contour noir, y~910 : Vmake (149 s). Étiquettes STIMULI CAT à vérifier.",
+ "bilan": {
+  "duree_source_s": 74.4,
+  "vmake_s": 74.4,
+  "caracteres_elevenlabs": 3243,
+  "replicate_appels": 1,
+  "reprises": 3,
+  "problemes": [
+   "Source anglaise ; voix clonée lente : script réécrit plus court puis 4 phrases rallongées",
+   "Étiquettes STIMULI CAT (1903-1937, 1997-2072, 2163-2228) recouvertes image par image (carrés unis)",
+   "Vmake : crédits épuisés en cours de lot (ST3-5), rechargés par l'élève",
+   "v02 : carrés unis sur les étiquettes remplacés par l'étiquette retournée en miroir haut/bas (idée de l'élève, plus naturel) ; zones Vmake étendues aux étiquettes",
+   "v03 : toute la vidéo en miroir horizontal (demande de l'élève : logo net mais illisible) ; source et Vmake retournés, zones Vmake retournées, sous-titres non retournés"
+  ]
+ }
+}
