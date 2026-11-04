@@ -1,0 +1,98 @@
+{
+ "ref": "V1564437",
+ "langue_source": "fi",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "cyUz9WGjFRp4ewzAmbo8",
+  "repli_id": "",
+  "vitesse_max": 1.07
+ },
+ "lignes": [
+  {
+   "id": "L1",
+   "texte": "J'en ai commandé une.",
+   "debut": 0.06,
+   "fin_fenetre": 1.76
+  },
+  {
+   "id": "L2",
+   "texte": "Et deux jours plus tard, j'en ai commandé une deuxième.",
+   "debut": 1.76,
+   "fin_fenetre": 4.6
+  },
+  {
+   "id": "L3",
+   "texte": "Parce qu'il y a toujours un coin de plus pour elle.",
+   "debut": 4.75,
+   "fin_fenetre": 7.3
+  },
+  {
+   "id": "L4",
+   "texte": "Une tape sur la tête, et elle s'allume.",
+   "debut": 7.35,
+   "fin_fenetre": 9.56
+  },
+  {
+   "id": "L5",
+   "texte": "Une lumière chaude, juste comme il faut, et elle va partout, parce qu'elle n'a pas de fil.",
+   "debut": 9.56,
+   "fin_fenetre": 14.5
+  },
+  {
+   "id": "L6",
+   "texte": "La première est à côté de mon lit, l'autre dans l'entrée, pour ne pas rentrer dans le noir complet.",
+   "debut": 14.58,
+   "fin_fenetre": 20.2
+  },
+  {
+   "id": "L7",
+   "texte": "Il y en a de plusieurs couleurs, donc pas besoin qu'elles soient toutes pareilles.",
+   "debut": 20.24,
+   "fin_fenetre": 24.4
+  },
+  {
+   "id": "L8",
+   "texte": "C'est sur wunela.com.",
+   "debut": 24.5,
+   "fin_fenetre": 26.4
+  },
+  {
+   "id": "L9",
+   "texte": "Prends-en deux direct, comme ça pas besoin de recommander.",
+   "debut": 26.4,
+   "fin_fenetre": 29.15
+  },
+  {
+   "id": "L10",
+   "texte": "Merci !",
+   "debut": 29.2,
+   "fin_fenetre": 30.18
+  }
+ ],
+ "mix": {
+  "fond": "musique"
+ },
+ "rendu": {
+  "blocs": "auto"
+ },
+ "marque": "Wunela",
+ "produit": "lampe oiseau tactile sans fil",
+ "site": "wunela.com",
+ "offre": "celle de la source : en prendre deux (aucun prix ni remise)",
+ "controle": {
+  "sans_voix": []
+ },
+ "notes": "Étape 0 : type 1 (sous-titres fixes, texte noir sur rectangle blanc, 1-2 lignes) -> blocs.py, pas de Vmake (0 crédit). Marque d'origine 'Valotalo' dite + sous-titre S8 (images ~731-792) -> Wunela / wunela.com. Pas de logo, prix, offre ni carte de fin. Livre 'LOEWE' sur une étagère (plan ~490) = décor, pas la marque. Whisper a raté 'Napautus päähän' (~7.4-8.7 s), sous-titre visible à l'image 226.",
+ "bilan": {
+  "duree_source_s": 30.18,
+  "vmake_s": 0,
+  "caracteres_elevenlabs": 851,
+  "replicate_appels": 1,
+  "reprises": 1,
+  "problemes": [
+   "voix clonée rapide : 6 phrases rallongées puis régénérées (398 car.)",
+   "Whisper a raté « Napautus päähän » (~7,4 s), comblé depuis le sous-titre visible",
+   "sous-titre d origine visible images 789-800 sans rectangle (voix L9 démarre 0,4 s après) : début du bloc avancé à la main dans blocs.json ; blocs_auto.forcer cassait la répartition des mots"
+  ]
+ }
+}
