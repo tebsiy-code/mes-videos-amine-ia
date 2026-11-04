@@ -1,0 +1,6 @@
+Contrôle manuel (pas de voix, controle.py non applicable) :
+- format 720x1280, 30 i/s identique à la source
+- 361 images, durée 12,03 s (piste audio source 12,17 s)
+- carte de fin VALOTALO (images 243-360) remplacée par WUNELA, vérifiée à 9,5 s et 11 s (fondu)
+- aucun autre texte, logo ou prix (grille de 52 images)
+- chanson anglaise d'origine conservée
