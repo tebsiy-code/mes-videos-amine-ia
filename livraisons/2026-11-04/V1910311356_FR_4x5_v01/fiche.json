@@ -1,0 +1,152 @@
+{
+ "ref": "V1910311356",
+ "langue_source": "fi",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "iGuzVR91EJphD79Bqnw2",
+  "repli_id": "",
+  "vitesse_max": 1.07
+ },
+ "lignes": [
+  {
+   "id": "L1",
+   "texte": "Une pour maman, une pour moi.",
+   "debut": 0.06,
+   "fin_fenetre": 2.18
+  },
+  {
+   "id": "L2",
+   "texte": "Wunela, c'est un petit oiseau qui s'allume quand on le touche.",
+   "debut": 2.24,
+   "fin_fenetre": 5.9
+  },
+  {
+   "id": "L3",
+   "texte": "Une tape sur la tête, et son ventre brille d'une lumière chaude.",
+   "debut": 5.96,
+   "fin_fenetre": 9.6
+  },
+  {
+   "id": "L4",
+   "texte": "Sans fil, donc elle peut la mettre où elle veut.",
+   "debut": 9.78,
+   "fin_fenetre": 13.0
+  },
+  {
+   "id": "L5",
+   "texte": "Table de nuit, fenêtre, étagère de l'entrée.",
+   "debut": 13.08,
+   "fin_fenetre": 16.18
+  },
+  {
+   "id": "L6",
+   "texte": "Et même éteinte, elle reste aussi belle.",
+   "debut": 16.33,
+   "fin_fenetre": 18.9
+  },
+  {
+   "id": "L7",
+   "texte": "Un cadeau comme ça, on t'en reparle longtemps.",
+   "debut": 18.96,
+   "fin_fenetre": 22.6
+  },
+  {
+   "id": "L8",
+   "texte": "Disponible chez Wunela, en plusieurs couleurs.",
+   "debut": 22.72,
+   "fin_fenetre": 25.6
+  },
+  {
+   "id": "L9",
+   "texte": "Mets-la dans ton panier dès maintenant, comme ça elle arrivera chez toi bien à temps.",
+   "debut": 25.74,
+   "fin_fenetre": 30.5
+  }
+ ],
+ "mix": {
+  "fond": "musique"
+ },
+ "rendu": {
+  "blocs": "auto",
+  "patches": [
+   {
+    "images": [
+     846,
+     950
+    ],
+    "rect": [
+     50,
+     55,
+     330,
+     152
+    ],
+    "remplir": "interp"
+   }
+  ],
+  "textes": [
+   {
+    "images": [
+     862,
+     950
+    ],
+    "lignes": [
+     "Wunela"
+    ],
+    "y": 102,
+    "taille": 104,
+    "graisse": 700,
+    "police": "DMSans.ttf",
+    "x": 245.19359375,
+    "decalage": [
+     0,
+     0
+    ],
+    "flou": 0.01,
+    "trait": 0
+   },
+   {
+    "images": [
+     862,
+     950
+    ],
+    "lignes": [
+     "Livraison offerte · Retours sous 30 jours"
+    ],
+    "y": 182,
+    "taille": 27,
+    "graisse": 600,
+    "police": "DMSans.ttf",
+    "x": 312.5,
+    "decalage": [
+     0,
+     0
+    ],
+    "flou": 0.01,
+    "trait": 0,
+    "largeur": 640
+   }
+  ]
+ },
+ "marque": "Wunela",
+ "produit": "lampe oiseau (Cora dans la source -> Wunela)",
+ "site": "",
+ "offre": "celle de la source : livraison offerte, retours sous 30 jours (carte de fin)",
+ "controle": {
+  "sans_voix": []
+ },
+ "notes": "Étape 0 : 720x900 (4:5), 30 i/s, 31,8 s, 19 plans. Type 1 : sous-titres noirs sur rectangles blancs -> blocs.py. Titre de fin sans fond en haut (images ~860-950) 'Cora / Valotalo / Ilmainen toimitus · 30 päivän palautusoikeus', fondu d'entrée, plan qui bouge puis se fige -> Vmake sur l'extrait 846-950 seulement (~7 crédits), puis texte refait 'Wunela' + 'Livraison offerte · Retours sous 30 jours'. Panneau 'VÄLKOMMEN' (déco, images ~460-500) gardé. 'Kiitos' 30,0-30,1 s (0,1 s, sans sous-titre) ignoré.",
+ "bilan": {
+  "duree_source_s": 31.83,
+  "vmake_s": 3.5,
+  "caracteres_elevenlabs": 886,
+  "replicate_appels": 1,
+  "reprises": 1,
+  "problemes": [
+   "Vmake lancé sur l'extrait final seulement (images 846-950) pour économiser ~57 crédits",
+   "Vmake a laissé une trace grise du gros titre 'Cora' pendant le mouvement de caméra (~870-895) : patch interp + nouveau titre par-dessus",
+   "blocs.py avait pris le titre de fin pour un rectangle de sous-titre (920-950, en haut) : corrigé en relançant après nettoyage du titre (src.mp4 = source + zone Vmake, original dans src_origine.mp4)",
+   "L7 recoupé (« dont / on te ») : reclonage depuis echantillon_voix.mp3 pour 1 phrase",
+   "plusieurs phrases TROP LONG / courtes au 1er passage : 5 phrases reprises"
+  ]
+ }
+}
