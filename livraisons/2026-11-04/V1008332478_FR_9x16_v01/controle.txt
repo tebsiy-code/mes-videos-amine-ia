@@ -1,0 +1,5 @@
+Contrôle manuel (pas de voix, controle.py non applicable) :
+- format 720x1280, 29,97 i/s identique à la source
+- 628 images, durée 20,95 s (piste audio source 21,08 s)
+- seul texte d'origine 'Cora — Valotalo' (images 558-612) recouvert par 'Wunela' ; vérifié à 18,7 s, 19,5 s et 20,3 s (fondu)
+- aucun autre texte, logo ou prix dans la vidéo (grille de 58 images)
