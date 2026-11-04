@@ -1,0 +1,91 @@
+{
+ "ref": "V3949091",
+ "langue_source": "fi",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "FaAy5n1g6v8G3LLxrnX5",
+  "repli_id": "",
+  "vitesse_max": 1.07
+ },
+ "lignes": [
+  {
+   "id": "L1",
+   "texte": "Et si une lampe attirait tous les regards de la pièce ?",
+   "debut": 0.06,
+   "fin_fenetre": 3.28
+  },
+  {
+   "id": "L2",
+   "texte": "Wunela allie une forme épurée et l'inspiration de la nature.",
+   "debut": 3.28,
+   "fin_fenetre": 7.4
+  },
+  {
+   "id": "L3",
+   "texte": "Délicate et pleine de charme.",
+   "debut": 8.36,
+   "fin_fenetre": 10.9
+  },
+  {
+   "id": "L4",
+   "texte": "Elle embellit chaque coin de la maison.",
+   "debut": 11.12,
+   "fin_fenetre": 13.8
+  },
+  {
+   "id": "L5",
+   "texte": "Apporte une ambiance naturelle chez toi, dès aujourd'hui.",
+   "debut": 14.04,
+   "fin_fenetre": 17.6
+  }
+ ],
+ "mix": {
+  "fond": "musique"
+ },
+ "rendu": {
+  "zones_vmake": "auto",
+  "sous_titres": {
+   "mode": "phrase",
+   "y": 585,
+   "taille": 34,
+   "graisse": 700,
+   "couleur": [
+    255,
+    255,
+    255
+   ],
+   "couleur_ombre": [
+    0,
+    0,
+    0
+   ],
+   "decalage": [
+    1,
+    1
+   ],
+   "flou": 1.0,
+   "trait": 2,
+   "interligne": 1.3,
+   "max_car_ligne": 24
+  }
+ },
+ "marque": "Wunela",
+ "produit": "lampe oiseau tactile (Cora dans la source -> Wunela)",
+ "site": "",
+ "offre": "aucune dans la source",
+ "controle": {
+  "sans_voix": []
+ },
+ "notes": "Étape 0 : 720x720, 17,8 s, un plan fixe. Type 2 : sous-titres fixes blancs à contour sans fond, bas de l'image (~y 590-650), 1-2 lignes -> Vmake (~36 crédits) puis nos sous-titres au même endroit. Nom produit 'Cora' (voix + sous-titre S2) -> Wunela. Pas de logo, prix, site, offre, carte de fin.",
+ "bilan": {
+  "duree_source_s": 17.79,
+  "vmake_s": 17.79,
+  "caracteres_elevenlabs": 240,
+  "replicate_appels": 1,
+  "reprises": 0,
+  "problemes": [
+   "grille complète faite à la main : planche.jpg ne montrait que 4 images (4 plans)",
+   "versions 9:16 et 16:9 demandées en plus (fond flouté, comme la vidéo précédente) : pas de module pour ça"
+  ]
+ }
+}
