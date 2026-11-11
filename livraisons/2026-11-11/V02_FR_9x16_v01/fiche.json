@@ -1,0 +1,322 @@
+{
+ "ref": "V02",
+ "langue_source": "pt",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "hWdWacze7402zPdDd6tn",
+  "repli_id": "",
+  "vitesse_max": 1.07
+ },
+ "lignes": [
+  {
+   "id": "S1",
+   "texte": "Ma mère dit toujours qu'elle ne veut rien.",
+   "debut": 0.06,
+   "fin_fenetre": 2.93
+  },
+  {
+   "id": "S2",
+   "texte": "Après ce cadeau de Noël, j'ai compris trois choses.",
+   "debut": 2.98,
+   "fin_fenetre": 6.01
+  },
+  {
+   "id": "S3",
+   "texte": "Un, il est vraiment unique.",
+   "debut": 6.1,
+   "fin_fenetre": 8.11
+  },
+  {
+   "id": "S4",
+   "texte": "Oublie les cadeaux qui finissent dans un tiroir.",
+   "debut": 8.16,
+   "fin_fenetre": 11.03
+  },
+  {
+   "id": "S5",
+   "texte": "C'est toute une expérience.",
+   "debut": 11.08,
+   "fin_fenetre": 13.01
+  },
+  {
+   "id": "S6",
+   "texte": "On croit à de vrais sushis en ouvrant la boîte.",
+   "debut": 13.06,
+   "fin_fenetre": 16.19
+  },
+  {
+   "id": "S7",
+   "texte": "Quoi, des chaussettes ?",
+   "debut": 16.24,
+   "fin_fenetre": 17.87
+  },
+  {
+   "id": "S8",
+   "texte": "Deux, pour le prix, c'est incroyablement bien.",
+   "debut": 17.92,
+   "fin_fenetre": 20.63
+  },
+  {
+   "id": "S9",
+   "texte": "Cinq paires de chaussettes, dix sushis et des baguettes dans une seule boîte.",
+   "debut": 20.75,
+   "fin_fenetre": 25.19
+  },
+  {
+   "id": "S10",
+   "texte": "Et on les porte.",
+   "debut": 25.48,
+   "fin_fenetre": 26.69
+  },
+  {
+   "id": "S11",
+   "texte": "Pas un cadeau qui traîne.",
+   "debut": 26.75,
+   "fin_fenetre": 28.39
+  },
+  {
+   "id": "S12",
+   "texte": "Trois, tu fais plaisir.",
+   "debut": 28.44,
+   "fin_fenetre": 30.75
+  },
+  {
+   "id": "S14",
+   "texte": "Maman a dit, mon préféré.",
+   "debut": 30.8,
+   "fin_fenetre": 32.71
+  },
+  {
+   "id": "S15",
+   "texte": "Devine, elle en veut d'autres.",
+   "debut": 32.79,
+   "fin_fenetre": 34.87
+  },
+  {
+   "id": "S16",
+   "texte": "Attends qu'ils prennent un sushi.",
+   "debut": 34.92,
+   "fin_fenetre": 37.37
+  },
+  {
+   "id": "S17",
+   "texte": "Avec ce cadeau, le malin, c'est celui qui offre.",
+   "debut": 37.42,
+   "fin_fenetre": 40.17
+  },
+  {
+   "id": "S18",
+   "texte": "C'est toi qui offres les meilleurs cadeaux.",
+   "debut": 40.64,
+   "fin_fenetre": 42.73
+  },
+  {
+   "id": "S19",
+   "texte": "On demande, tu l'as eu où ?",
+   "debut": 42.78,
+   "fin_fenetre": 44.55
+  },
+  {
+   "id": "S20",
+   "texte": "Va voir sur wunela.com.",
+   "debut": 44.6,
+   "fin_fenetre": 46.97
+  },
+  {
+   "id": "S21",
+   "texte": "Un acheté, un offert.",
+   "debut": 47.02,
+   "fin_fenetre": 49.29
+  }
+ ],
+ "mix": {
+  "fond": "musique"
+ },
+ "rendu": {
+  "crf": 17,
+  "encodeur": "x264",
+  "patches": [
+   {
+    "images": [
+     0,
+     1471
+    ],
+    "rect": [
+     45,
+     824,
+     675,
+     943
+    ],
+    "remplir": [
+     24,
+     21,
+     19
+    ],
+    "rayon": 18
+   },
+   {
+    "images": [
+     174,
+     536
+    ],
+    "rect": [
+     146,
+     256,
+     574,
+     316
+    ],
+    "remplir": [
+     255,
+     255,
+     255
+    ],
+    "rayon": 12,
+    "lignes": [
+     {
+      "texte": "UN : SIMPLEMENT UNIQUE",
+      "x": 360,
+      "y": 286,
+      "taille": 30,
+      "graisse": 700,
+      "couleur": [
+       20,
+       20,
+       20
+      ],
+      "largeur": 400,
+      "police": "DMSans.ttf"
+     }
+    ]
+   },
+   {
+    "images": [
+     537,
+     853
+    ],
+    "rect": [
+     172,
+     256,
+     548,
+     316
+    ],
+    "remplir": [
+     255,
+     255,
+     255
+    ],
+    "rayon": 12,
+    "lignes": [
+     {
+      "texte": "DEUX : ÇA VAUT LE COUP",
+      "x": 360,
+      "y": 286,
+      "taille": 30,
+      "graisse": 700,
+      "couleur": [
+       20,
+       20,
+       20
+      ],
+      "largeur": 348,
+      "police": "DMSans.ttf"
+     }
+    ]
+   },
+   {
+    "images": [
+     854,
+     1121
+    ],
+    "rect": [
+     150,
+     256,
+     570,
+     316
+    ],
+    "remplir": [
+     255,
+     255,
+     255
+    ],
+    "rayon": 12,
+    "lignes": [
+     {
+      "texte": "TROIS : TU FAIS PLAISIR",
+      "x": 360,
+      "y": 286,
+      "taille": 30,
+      "graisse": 700,
+      "couleur": [
+       20,
+       20,
+       20
+      ],
+      "largeur": 392,
+      "police": "DMSans.ttf"
+     }
+    ]
+   }
+  ],
+  "sous_titres": {
+   "mode": "phrase",
+   "y": 883,
+   "taille": 30,
+   "couleur": [
+    255,
+    255,
+    255
+   ],
+   "couleur_ombre": [
+    24,
+    21,
+    19
+   ],
+   "decalage": [
+    0,
+    0
+   ],
+   "flou": 0,
+   "trait": 0,
+   "combler": true,
+   "police": "DMSans.ttf",
+   "images": [
+    0,
+    1471
+   ],
+   "max_car_ligne": 34,
+   "scinder": {
+    "S9": [
+     "Cinq paires de chaussettes,",
+     "dix sushis et des baguettes dans une seule boîte."
+    ]
+   }
+  }
+ },
+ "marque": "Wunela",
+ "produit": "coffret de chaussettes sushi",
+ "site": "wunela.com",
+ "offre": "celle de la source : 1 acheté = 1 offert",
+ "controle": {
+  "sans_voix": [
+   "UN : SIMPLEMENT UNIQUE",
+   "DEUX : ÇA VAUT LE COUP",
+   "TROIS : TU FAIS PLAISIR"
+  ]
+ },
+ "notes": "Sous-titres fixes 1 ligne, texte blanc sur bandeau noir arrondi (y~860-900 sur 1280) : méthode bandeau coloré, pas de Vmake. 3 badges blancs en haut (UM/DOIS/TRÊS, images ~180-1470). Pas de logo ni écran de fin. CTA 'clica no link' -> wunela.com.",
+ "bilan": {
+  "duree_source_s": 49.3,
+  "vmake_s": 0,
+  "caracteres_elevenlabs": 1239,
+  "replicate_appels": 2,
+  "reprises": 14,
+  "problemes": [
+   "Brief : l'élève a répondu seulement 'ok' aux 3 questions -> français, wunela.com et offre de la source retenus par défaut",
+   "Replicate : analyse.py échoue en 403 (téléchargement des pistes), séparation refaite à la main par curl (sortie en data URI) et pistes écrites dans dm/",
+   "badges.py ne détecte pas les 3 petits titres blancs du haut (56 px de haut, faux positifs sur le riz) : mesurés à la main, patches blancs arrondis",
+   "Voix du clone lente : 12 phrases raccourcies puis 2 rallongées (trou de voix S18-S19), reclone depuis l'échantillon",
+   "sous_titres.images=[5,..] supprimait le 1er sous-titre (début image 0) sans alerte de controle.py",
+   "Sous-titres blancs sur bandeau noir fixe [47,826,673,941] : un seul patch noir arrondi + sous-titres mode phrase"
+  ]
+ }
+}
