@@ -1,0 +1,143 @@
+{
+ "ref": "V01",
+ "langue_source": "fr",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "yDWf3zrH3S9Y1bumYa7n",
+  "repli_id": "",
+  "vitesse_max": 1.07
+ },
+ "lignes": [
+  {
+   "id": "S1",
+   "texte": "C'est votre signe.",
+   "debut": 0.24,
+   "fin_fenetre": 1.27
+  },
+  {
+   "id": "S2",
+   "texte": "Rupture de stock en novembre.",
+   "debut": 1.5,
+   "fin_fenetre": 2.69
+  },
+  {
+   "id": "S3",
+   "texte": "Offrez-les, ou glissez-les dans la chaussette de Noël.",
+   "debut": 3.0,
+   "fin_fenetre": 5.61
+  },
+  {
+   "id": "S4",
+   "texte": "Les offrir montre que vous la connaissez par cœur.",
+   "debut": 5.66,
+   "fin_fenetre": 8.01
+  },
+  {
+   "id": "S5",
+   "texte": "Même son plat préféré.",
+   "debut": 8.25,
+   "fin_fenetre": 9.35
+  },
+  {
+   "id": "S6",
+   "texte": "Dix sushis et leurs baguettes.",
+   "debut": 9.4,
+   "fin_fenetre": 10.87
+  },
+  {
+   "id": "S7",
+   "texte": "Aussi en pizza, burger et donut, chacun dans sa boîte.",
+   "debut": 11.13,
+   "fin_fenetre": 13.67
+  },
+  {
+   "id": "S9",
+   "texte": "Quatre modèles qui trompent l'œil.",
+   "debut": 14.14,
+   "fin_fenetre": 17.09
+  },
+  {
+   "id": "S10",
+   "texte": "Regardez sa tête.",
+   "debut": 17.14,
+   "fin_fenetre": 18.25
+  },
+  {
+   "id": "S11",
+   "texte": "Oui, elle est vraiment surprise.",
+   "debut": 18.3,
+   "fin_fenetre": 19.97
+  },
+  {
+   "id": "S12",
+   "texte": "Drôle à ouvrir.",
+   "debut": 20.02,
+   "fin_fenetre": 21.11
+  },
+  {
+   "id": "S13",
+   "texte": "Et on les porte chaque année.",
+   "debut": 21.16,
+   "fin_fenetre": 22.33
+  },
+  {
+   "id": "S14",
+   "texte": "Tout est parti en novembre dernier.",
+   "debut": 22.71,
+   "fin_fenetre": 24.49
+  },
+  {
+   "id": "S15",
+   "texte": "Commandez sur wunela.com avant que ça se reproduise.",
+   "debut": 24.7,
+   "fin_fenetre": 27.84
+  }
+ ],
+ "mix": {
+  "fond": "musique"
+ },
+ "rendu": {
+  "crf": 17,
+  "encodeur": "x264",
+  "blocs": "auto",
+  "blocs_auto": {
+   "forcer": [
+    {
+     "images": [
+      199,
+      230
+     ],
+     "rect": [
+      129,
+      884,
+      590,
+      949
+     ],
+     "lignes": 1
+    }
+   ]
+  }
+ },
+ "marque": "Wunela",
+ "produit": "coffret de chaussettes sushi",
+ "site": "wunela.com",
+ "offre": "celle de la source",
+ "controle": {
+  "sans_voix": []
+ },
+ "notes": "Type 1 : sous-titres fixes 1 ligne sur rectangle blanc (déjà FR, y~905-925 sur 1280), toute la vidéo. Aucun logo, prix, titre ni écran de fin. Source déjà en français : revoix complète au clone, CTA 'via le lien' -> wunela.com. Méthode blocs.py, Vmake 0.",
+ "bilan": {
+  "duree_source_s": 27.8,
+  "vmake_s": 0,
+  "caracteres_elevenlabs": 847,
+  "replicate_appels": 1,
+  "reprises": 7,
+  "problemes": [
+   "Source déjà en français (voix et sous-titres) : revoix complète au clone pour changer le CTA en wunela.com",
+   "Replicate 502 sur les deux premiers essais de séparation voix/musique, réussi au 3e",
+   "Clone plus lent que la voix d'origine : 7 phrases raccourcies et régénérées",
+   "Sous-titre 'préféré.' de 0,32 s : fusionné par blocs_auto.forcer",
+   "Site donné sans extension par l'élève : wunela.com confirmé via sa boutique Shopify"
+  ]
+ }
+}
