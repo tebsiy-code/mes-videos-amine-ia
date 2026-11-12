@@ -1,0 +1,151 @@
+{
+ "ref": "V03",
+ "langue_source": "pt",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "SQ8qHUvOCt4stPGhUpRa",
+  "repli_id": "",
+  "vitesse_max": 1.07
+ },
+ "lignes": [
+  {
+   "id": "S1",
+   "texte": "À Noël dernier, elles sont parties très vite.",
+   "debut": 0.4,
+   "fin_fenetre": 2.87
+  },
+  {
+   "id": "S2",
+   "texte": "Elles sont de retour.",
+   "debut": 3.05,
+   "fin_fenetre": 4.13
+  },
+  {
+   "id": "S3",
+   "texte": "On dirait un plat à emporter, non ?",
+   "debut": 4.2,
+   "fin_fenetre": 6.13
+  },
+  {
+   "id": "S4",
+   "texte": "Comme si tu savais tout sur la personne.",
+   "debut": 6.18,
+   "fin_fenetre": 8.43
+  },
+  {
+   "id": "S5",
+   "texte": "Tu connais même son plat préféré.",
+   "debut": 8.48,
+   "fin_fenetre": 10.53
+  },
+  {
+   "id": "S6",
+   "texte": "Cinq paires dans chaque boîte.",
+   "debut": 10.58,
+   "fin_fenetre": 12.47
+  },
+  {
+   "id": "S7",
+   "texte": "Offre-les, ou glisse-les dans la chaussette de Noël.",
+   "debut": 12.52,
+   "fin_fenetre": 15.79
+  },
+  {
+   "id": "S8",
+   "texte": "Regarde un peu sa tête.",
+   "debut": 15.84,
+   "fin_fenetre": 18.11
+  },
+  {
+   "id": "S9",
+   "texte": "Et le meilleur, une boîte achetée, une offerte.",
+   "debut": 18.16,
+   "fin_fenetre": 21.01
+  },
+  {
+   "id": "S10",
+   "texte": "Deux boîtes, tu n'en paies qu'une.",
+   "debut": 21.06,
+   "fin_fenetre": 23.25
+  },
+  {
+   "id": "S11",
+   "texte": "En rupture en novembre dernier.",
+   "debut": 23.3,
+   "fin_fenetre": 25.17
+  },
+  {
+   "id": "S12",
+   "texte": "Prends les tiennes avant la rupture.",
+   "debut": 25.22,
+   "fin_fenetre": 27.24
+  }
+ ],
+ "mix": {
+  "fond": "musique"
+ },
+ "rendu": {
+  "crf": 17,
+  "encodeur": "x264",
+  "zones_vmake": "auto",
+  "textes": [
+   {
+    "images": [
+     0,
+     99
+    ],
+    "lignes": [
+     "De retour"
+    ],
+    "y": 280,
+    "taille": 44,
+    "graisse": 700,
+    "trait": 3
+   }
+  ],
+  "sous_titres": {
+   "mode": "phrase",
+   "y": 667,
+   "taille": 34,
+   "couleur": [
+    255,
+    255,
+    255
+   ],
+   "couleur_ombre": [
+    0,
+    0,
+    0
+   ],
+   "decalage": [
+    1,
+    2
+   ],
+   "trait": 3,
+   "max_car_ligne": 28,
+   "police": "DMSans.ttf"
+  }
+ },
+ "marque": "Wunela",
+ "produit": "coffret de chaussettes sushi",
+ "site": "",
+ "offre": "celle de la source : 1 acheté = 1 offert",
+ "controle": {
+  "sans_voix": [
+   "De retour"
+  ]
+ },
+ "notes": "Type 2 : sous-titres blancs sans fond, fixes, 1-2 lignes, y~665. Titre 'Voltaram' en haut (y~280) sur le 1er plan. Vmake (~55 crédits, accord élève). Pas de logo, pas de site dit ni affiché -> aucun site ajouté.",
+ "bilan": {
+  "duree_source_s": 27.2,
+  "vmake_s": 27.2,
+  "caracteres_elevenlabs": 468,
+  "replicate_appels": 1,
+  "reprises": 1,
+  "problemes": [
+   "Replicate : séparation faite à la main par curl (analyse.py échoue en 403 au téléchargement des pistes)",
+   "S1 : 'étaient' entendu 'éteintent' deux fois par Whisper -> phrase reformulée et régénérée (reclone depuis l'échantillon)",
+   "Formats 16:9 et 1:1 demandés par l'élève : recadrage carré + fond flouté pour le 16:9, faits hors scripts avec ffmpeg"
+  ]
+ }
+}
